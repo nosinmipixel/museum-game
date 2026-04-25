@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "icon_ok": "✔",
+    "icon_ko": "☹"
+  },
+  "quizzes": {
+    "q001": {
+      "number": 1,
+      "question": "Could you tell me what object it is?\nYou seem very young and I'm not sure you can handle something so valuable.",
+      "options": [
+        { "label": "1. Caliciform cup", "correct": false },
+        { "label": "2. Cremation urn", "correct": false },
+        { "label": "3. Black-glaze jug", "correct": true }
+      ],
+      "tags": ["iberian", "ceramics"]
+    },
+    "q002": {
+      "number": 2,
+      "question": "Which period of Prehistory does the hand axe belong to?",
+      "options": [
+        { "label": "1. Epipaleolithic", "correct": false },
+        { "label": "2. Neolithic", "correct": false },
+        { "label": "3. Paleolithic", "correct": true }
+      ],
+      "tags": ["pal", "lithic"]
+    },
+    "q003": {
+      "number": 3,
+      "question": "Which of these materials was not used in Prehistory?\nYou do not seem to possess sufficient knowledge.",
+      "options": [
+        { "label": "1. Bone", "correct": false },
+        { "label": "2. Marble", "correct": true },
+        { "label": "3. Flint", "correct": false }
+      ],
+      "tags": ["pal", "lithic"]
+    },
+    "q004": {
+      "number": 4,
+      "question": "What is the most common design on the reverse of Iberian coins?",
+      "options": [
+        { "label": "1. A horseman", "correct": true },
+        { "label": "2. An ox", "correct": false },
+        { "label": "3. A lion", "correct": false }
+      ],
+      "tags": ["iberian", "coin"]
+    },
+    "q005": {
+      "number": 5,
+      "question": "Which stone-working technique emerged during the Neolithic?",
+      "options": [
+        { "label": "1. Direct percussion", "correct": false },
+        { "label": "2. Polishing", "correct": true },
+        { "label": "3. Pressure flaking", "correct": false }
+      ],
+      "tags": ["neo", "lithic"]
+    },
+    "q006": {
+      "number": 6,
+      "question": "Which of these objects was not used in the decoration of Neolithic pottery?",
+      "options": [
+        { "label": "1. Copper punch", "correct": true },
+        { "label": "2. Bone punch", "correct": false },
+        { "label": "3. Cardium edule shell", "correct": false }
+      ],
+      "tags": ["neo", "ceramics"]
+    },
+    "q007": {
+      "number": 7,
+      "question": "Which technique appears in the Bronze Age?",
+      "options": [
+        { "label": "1. Engraving", "correct": false },
+        { "label": "2. Smelting", "correct": true },
+        { "label": "3. Direct carving", "correct": false }
+      ],
+      "tags": ["bronze", "metal"]
+    },
+    "q008": {
+      "number": 8,
+      "question": "Which ceramic form is not characteristic of the Bronze Age?",
+      "options": [
+        { "label": "1. Cheese pot", "correct": false },
+        { "label": "2. Cooking pot", "correct": false },
+        { "label": "3. Caliciform", "correct": true }
+      ],
+      "tags": ["bronze", "ceramics"]
+    },
+    "q009": {
+      "number": 10,
+      "question": "What is this type of pottery called?",
+      "options": [
+        { "label": "1. Campanian ware", "correct": false },
+        { "label": "2. Terra sigillata", "correct": true },
+        { "label": "3. Red-figure pottery", "correct": false }
+      ],
+      "tags": ["roman", "city"]
+    },
+     "q010": {
+      "number": 11,
+      "question": "This object is a Roman steelyard. Do you know what it was used for?",
+      "options": [
+        { "label": "1. For fishing", "correct": false },
+        { "label": "2. For house construction", "correct": false },
+        { "label": "3. For weighing objects", "correct": true }
+      ],
+      "tags": ["roman", "city"]
+    },   
+    "q101": {
+      "number": 101,
+      "question": "What is the main objective of preventive conservation?",
+      "options": [
+        { "label": "1. To repair broken objects so they can be displayed.", "correct": false },
+        { "label": "2. To restore objects to their original appearance, removing all traces of deterioration.", "correct": false },
+        { "label": "3. To create conditions that slow down the deterioration of objects and prevent damage.", "correct": true }
+      ],
+      "tags": ["restoration", "conservation"]
+    },
+    "q102": {
+      "number": 102,
+      "question": "Which of these factors is most harmful to most archaeological objects?",
+      "options": [
+        { "label": "1. Gravity.", "correct": false },
+        { "label": "2. Intense light.", "correct": true },
+        { "label": "3. The colour of the room's walls.", "correct": false }
+      ],
+      "tags": ["restoration", "environment"]
+    }, 
+    "q103": {
+      "number": 103,
+      "question": "Why is the 'reversibility' of materials and techniques important in restoration?",
+      "options": [
+        { "label": "1. To make the restoration process more economical.", "correct": false },
+        { "label": "2. To ensure that treatments can be undone if better techniques emerge.", "correct": true },
+        { "label": "3. Because then objects can be cleaned with water without problems.", "correct": false }
+      ],
+      "tags": ["restoration", "technics"]
+    },  
+    "q104": {
+      "number": 104,
+      "question": "Why is controlling relative humidity important in museum storage areas?",
+      "options": [
+        { "label": "1. High humidity accelerates metal corrosion and fungal growth.", "correct": true },
+        { "label": "2. Researchers find it more uncomfortable and difficult to work in humidity.", "correct": false },
+        { "label": "3. Objects are best preserved in very dry environmental conditions.", "correct": false }
+      ],
+      "tags": ["restoration", "environment"]
+    },  
+    "q105": {
+      "number": 105,
+      "question": "What is the objective of storing certain objects in acid-free cardboard boxes?",
+      "options": [
+        { "label": "1. To improve their visual presentation and increase storage capacity.", "correct": false },
+        { "label": "2. To reduce storage costs.", "correct": false },
+        { "label": "3. To prevent acidic packaging materials from damaging the objects.", "correct": true }
+      ],
+      "tags": ["restoration", "storage"]
+    }                   
+  }
+}

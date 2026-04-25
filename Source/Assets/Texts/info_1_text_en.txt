@@ -1,0 +1,7 @@
+
+Selecciona el idioma / Select the language. \nulsa la tecla '1' para Español. \nPress the '2' key for English
+'W' key to move forward and 'S' key to move backward. \n'A' key to turn left. \n'D' key to turn right.\n You can also use the arrow keys \n\n'P' key to pause the game and open the main menu.\n'I' key to open and close the object Inventory \nClick on objects and characters to interact with them.\n\nPress the '>' button or the 'Space' key to continue.
+You are the 'novice' curator of a great Archaeology museum. \nYou've just started and you want to show everyone your talent. \nYour daily work will preserve the museum's legacy for future generations.
+There is a series of 'Tasks' you must complete to gain experience: \n\n1. Organize the museum's collection.\n 2. Evaluate the material condition of the objects. \n 3. Monitor environmental conditions in the building, as well as face the threat of pests. \n 4. Assist researchers, students, and the general public. \n\nCompleting these tasks will allow you to reach the 'Directorship' of the museum. However, situations may arise that complicate your daily work. \n\n
+Now press the '>' button or the 'Space' key to start the game.
+Are you sure? \nThis action will erase all your progress and restart the game.

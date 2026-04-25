@@ -1,0 +1,415 @@
+[
+  {
+    "id": 20,
+    "descripcion": "Falcata de hierro y espada de hierro con antenas.",
+    "periodo": "Edad del hierro, Cultura ibérica. Siglos V-III a.C.",
+    "lugar_recuperacion": "Casa del Monte, Valdeganga, Albacete, España.",
+    "dimensiones": null
+  },
+  {
+    "id": 132,
+    "descripcion": "Lucernas o lámparas de aceite.",
+    "periodo": "Edad antigua, Imperio romano. Siglos I-III d.C.",
+    "lugar_recuperacion": "Ampurias, La Escala, Gerona, España.",
+    "dimensiones": null
+  },
+  {
+    "id": 1905,
+    "descripcion": "Quemaperfumes o pebetero en forma de cabeza femenina con tocado en forma de cálatos.",
+    "periodo": "Edad del hierro, Cultura ibérica. Siglos III-I a.C.",
+    "lugar_recuperacion": "Puntal dels Llops, Olocau, Valencia, España.",
+    "dimensiones": "15.4x11 cm"
+  },
+  {
+    "id": 1911,
+    "descripcion": "Llaves de hierro.",
+    "periodo": "Edad del hierro, Cultura ibérica. Siglos III-II a.C.",
+    "lugar_recuperacion": "Puntal dels Llops, Olocau, Valencia, España.",
+    "dimensiones": "11.7x5 cm"
+  },
+  {
+    "id": 2899,
+    "descripcion": "Exvoto ibérico en bronce conocido como 'Guerrer de Moixent'.",
+    "periodo": "Edad del hierro, Cultura ibérica. Siglos IV a.C.",
+    "lugar_recuperacion": "La Bastida de les Alcusses, Moixent, Valencia, España.",
+    "dimensiones": "7.3x4x1.5 cm"
+  },
+  {
+    "id": 3098,
+    "descripcion": "Hoz que conserva el mango de madera con dientes de sílex.",
+    "periodo": "Edad del Bronce. Datación: 2200-1500 a.C.",
+    "lugar_recuperacion": "Mas de Menente, Alcoi, Alicante, España.",
+    "dimensiones": "10.48x22.1 cm"
+  },
+  {
+    "id": 3541,
+    "descripcion": "Conjunto cerámico.",
+    "periodo": "Edad del Bronce.",
+    "lugar_recuperacion": "Lloma de Betxí, Paterna, Valencia, España.",
+    "dimensiones": null
+  },
+  {
+    "id": 3662,
+    "descripcion": "Molde y tapadera de piedra arenisca para la fundición de hachas planas y cinceles.",
+    "periodo": "Edad del Bronce. Datación: 1800-1400 a.C.",
+    "lugar_recuperacion": "Mola Alta de Serelles, Alcoi, Alicante, España.",
+    "dimensiones": "13.5x20 cm"
+  },
+  {
+    "id": 4302,
+    "descripcion": "Ídolo oculado sobre fragmento de asta de ciervo con decoración incisa.",
+    "periodo": "Eneolítico. Datación: 2500 a.C.",
+    "lugar_recuperacion": "Ereta del Pedregal, Navarrés, Valencia, España.",
+    "dimensiones": "2.7x18.7 cm"
+  },
+  {
+    "id": 4946,
+    "descripcion": "Ánfora masaliota.",
+    "periodo": "Edad antigua, Cultura griega. Siglos VI-V a.C.",
+    "lugar_recuperacion": "El Saler, Valencia, España.",
+    "dimensiones": "49x35 cm"
+  },  
+  {
+    "id": 4947,
+    "descripcion": "Ánfora romana republicana.",
+    "periodo": "Edad antigua, Imperio romano. Siglo II a.C.",
+    "lugar_recuperacion": "Les Foies, Manuel, Valencia, España.",
+    "dimensiones": "88x30 cm"
+  },
+  {
+    "id": 4948,
+    "descripcion": "Ánfora púnico-ebusitana.",
+    "periodo": "Edad antigua, Imperio romano. Siglo II a.C.",
+    "lugar_recuperacion": "La Vila Joiosa, Alicante, España.",
+    "dimensiones": "112x27.5 cm"
+  },
+  {
+    "id": 5090,
+    "descripcion": "Brazalete de esquisto.",
+    "periodo": "Neolítico antiguo.",
+    "lugar_recuperacion": "Cova de la Sarsa, Bocairent, Valencia, España.",
+    "dimensiones": "10.1 cm"
+  },
+  {
+    "id": 5099,
+    "descripcion": "Azuela de piedra pulida.",
+    "periodo": "Neolítico.",
+    "lugar_recuperacion": "Cova de l'Or', Beniarrés, Alicante, España.",
+    "dimensiones": "3.56 x 5.11 cm"
+  },
+  {
+    "id": 5117,
+    "descripcion": "Molino de mano y moledera de piedra arenisca.",
+    "periodo": "Neolítico.",
+    "lugar_recuperacion": "Cova de l'Or', Beniarrés, Alicante, España.",
+    "dimensiones": "27 x 50 cm; 13.5 x 15 cm"
+  },
+  {
+    "id": 5140,
+    "descripcion": "Cucharas de hueso.",
+    "periodo": "Neolítico. Datación: 5525-4850 a.C.",
+    "lugar_recuperacion": "La Cova de l'Or, Beniarrés, Alicante, España.",
+    "dimensiones": null
+  },
+  {
+    "id": 5225,
+    "descripcion": "Anillo de hueso.",
+    "periodo": "Neolítico antiguo.",
+    "lugar_recuperacion": "Cova de l'Or, Beniarrés, Alicante, España.",
+    "dimensiones": "2.9 cm"
+  },
+  {
+    "id": 5267,
+    "descripcion": "Cuenco hemisférico con decoración impresa cardial.",
+    "periodo": "Neolítico antiguo.",
+    "lugar_recuperacion": "Cova de l'Or, Beniarrés, Alicante, España.",
+    "dimensiones": "12x10.5 cm"
+  },
+  {
+    "id": 5271,
+    "descripcion": "Vaso geminado con decoración impresa cardial.",
+    "periodo": "Neolítico antiguo.",
+    "lugar_recuperacion": "Cova de l'Or, Beniarrés, Alicante, España.",
+    "dimensiones": "8x8.8 cm"
+  },
+  {
+    "id": 6209,
+    "descripcion": "Vajilla doméstica de época imperial.",
+    "periodo": "Edad antigua, Imperio romano. Siglos I-II d.C.",
+    "lugar_recuperacion": "Pla de l'Arc, Llíria, Valencia, España.",
+    "dimensiones": null
+  },
+  {
+    "id": 6350,
+    "descripcion": "Elementos de adorno sobre conchas de molusco y caninos de ciervo.",
+    "periodo": "Paleolítico superior",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": null
+  },
+  {
+    "id": 6560,
+    "descripcion": "Ánfora romana de aceite con marca y grafito.",
+    "periodo": "Edad antigua, Imperio romano. Siglo II d.C.",
+    "lugar_recuperacion": "La Vila Joiosa, Alicante, España.",
+    "dimensiones": null
+  },
+  {
+    "id": 7622,
+    "descripcion": "Quesera de forma troncocónica.",
+    "periodo": "Edad del Bronce.",
+    "lugar_recuperacion": "Lloma de Betxí, Paterna, Valencia, España.",
+    "dimensiones": "12.4x8.1 cm"
+  },
+  {
+    "id": 7634,
+    "descripcion": "Pesas de telar.",
+    "periodo": "Edad del Bronce.",
+    "lugar_recuperacion": "Lloma de Betxí, Paterna, Valencia, España.",
+    "dimensiones": null
+  },
+  {
+    "id": 13570,
+    "descripcion": "Fragmento escultórico de sirena o ave.",
+    "periodo": "Edad del hierro, Cultura ibérica. Siglo IV a.C.",
+    "lugar_recuperacion": "Corral de Saus, Moixent, Valencia, España.",
+    "dimensiones": "27x50.5 cm"
+  },
+  {
+    "id": 13588,
+    "descripcion": "Escultura femenina de mármol.",
+    "periodo": "Edad antigua, Imperio romano. Siglos II-III d.C.",
+    "lugar_recuperacion": "València la Vella, Riba-Roja de Túria, Valencia, España.",
+    "dimensiones": "14.3x30 cm"
+  },
+  {
+    "id": 13590,
+    "descripcion": "Estatua romana en bronce que representa al dios Apolo.",
+    "periodo": "Edad antigua, Imperio romano. Siglos I-II d.C.",
+    "lugar_recuperacion": "Pinedo, Valencia, España.",
+    "dimensiones": "145x53 cm"
+  },
+  {
+    "id": 16061,
+    "descripcion": "Plaqueta decorada con una cierva pintada y dos équidos grabados en una cara, en la otra cara con una cierva.",
+    "periodo": "Paleolítico superior, Solutrense inferior. Datación: 23000-21500 a.p.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "12.9x19.1 cm"
+  },
+  {
+    "id": 16121,
+    "descripcion": "Plaqueta grabada con motivos simbólicos y pintada con un équido.",
+    "periodo": "Paleolítico Superior, Solutrense inferior.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "14.9x23 cm"
+  },
+  {
+    "id": 17109,
+    "descripcion": "Plaqueta grabada por las dos caras, una con un cáprido y la otra con una cierva, ambas acompañadas de líneas y haces.",
+    "periodo": "Paleolítico Superior, Solutrense superior.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "6.5x12.8 cm"
+  },
+  {
+    "id": 17110,
+    "descripcion": "Plaqueta grabada y pintada con cáprido y motivo geométrico.",
+    "periodo": "Paleolítico Superior, Solutrense superior, Solutreogravetiense I.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "5.9x8.3 cm"
+  },
+  {
+    "id": 17727,
+    "descripcion": "Plaqueta grabada en las dos caras con un caballo y líneas rectas.",
+    "periodo": "Paleolítico Superior, Paleolítico superior Solutreogravetiense I.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "3.6x3.7 cm"
+  },
+  {
+    "id": 17757,
+    "descripcion": "Plaqueta grabada por las dos caras, una con cierva y dos cervatos, y caballo, y por la otra un caballo.",
+    "periodo": "Paleolítico Superior, Solutreogravetiense I. 17.000-16.000 años BP.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "4.2x8.8 cm"
+  },
+  {
+    "id": 18125,
+    "descripcion": "Plaqueta grabada con dos ciervas corriendo.",
+    "periodo": "Paleolítico Superior, Solutreogravetiense II.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "4.5x6.7 cm"
+  },
+  {
+    "id": 18169,
+    "descripcion": "Plaqueta grabada con figura completa de cáprido.",
+    "periodo": "Paleolítico Superior, Solutreogravetiense II.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "6.4x8.5 cm"
+  },
+  {
+    "id": 18558,
+    "descripcion": "Plaqueta grabada con una escena de dos cabras saltando.",
+    "periodo": "Paleolítico Superior, Solutreogravetiense III.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "3.8x5 cm"
+  },
+  {
+    "id": 18649,
+    "descripcion": "Plaqueta grabada con cabeza de cáprido.",
+    "periodo": "Paleolítico Superior, Solutreogravetiense III.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "5x3 cm"
+  },
+  {
+    "id": 18704,
+    "descripcion": "Plaqueta grabada y pintada con la figura de un cáprido por un lado, y por el otro con decoración simbólica.",
+    "periodo": "Paleolítico Superior, Solutreogravetiense III.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "27.1x37.5 cm"
+  },
+  {
+    "id": 18888,
+    "descripcion": "Plaqueta grabada por las dos caras, en una con una cierva y la otra con una cabra.",
+    "periodo": "Paleolítico Superior, Magdaleniense antiguo A.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "7x12 cm"
+  },
+  {
+    "id": 19002,
+    "descripcion": "Plaqueta grabada y pintada con un ciervo por una cara, y líneas y pintura por la otra.",
+    "periodo": "Paleolítico Superior, Magdaleniense antiguo A.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "7.6x12 cm"
+  },
+  {
+    "id": 19014,
+    "descripcion": "Plaqueta grabada por las dos caras con decoración de haces i líneas.",
+    "periodo": "Paleolítico Superior, Magdaleniense antiguo A.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "5x4.5 cm"
+  },
+  {
+    "id": 19635,
+    "descripcion": "Plaqueta grabada con un bóvido por una cara, y por la otra con un cérvido.",
+    "periodo": "Paleolítico Superior, Magdaleniense antiguo B.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "5.4x8.1 cm"
+  },
+  {
+    "id": 20045,
+    "descripcion": "Plaqueta con arboriforme pintado.",
+    "periodo": "Paleolítico Superior, Magdaleniense superior.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "6.6x10.9 cm"
+  },
+  {
+    "id": 20175,
+    "descripcion": "Plaqueta grabada con un bóvido.",
+    "periodo": "Paleolítico Superior, Magdaleniense superior.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "8.6x8.4 cm"
+  },
+  {
+    "id": 20507,
+    "descripcion": "Plaqueta grabada con un équido.",
+    "periodo": "Paleolítico superior.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, España.",
+    "dimensiones": "5.9x7.6 cm"
+  },
+  {
+    "id": 22253,
+    "descripcion": "Dracma. Anverso con cabeza masculina laureada y reverso con toro androcéfalo.",
+    "periodo": "Edad del hierro. Datación: Finales del siglo III a.C.",
+    "lugar_recuperacion": "Arse-Saguntum",
+    "dimensiones": null
+  },
+  {
+    "id": 23871,
+    "descripcion": "Reconstrucción de una flauta de hueso neolítica",
+    "periodo": "Neolítico.",
+    "lugar_recuperacion": "Cova de l'Or, Beniarrés, Alicante, España.",
+    "dimensiones": "6.9x0.7 cm"
+  },
+  {
+    "id": 23981,
+    "descripcion": "Conjunto de piezas metálicas.",
+    "periodo": "Edad del Bronce, ca. 1500 a.C.",
+    "lugar_recuperacion": "L'Arbocer-Altet de Palau, La Font de la Figuera, Valencia, España.",
+    "dimensiones": null
+  },
+  {
+    "id": 23982,
+    "descripcion": "Hacha plana de bronce de sección rectangular.",
+    "periodo": "Edad del Bronce, 1500-1300 a.C.",
+    "lugar_recuperacion": "L'Arbocer-Altet de Palau, La Font de la Figuera, Valencia, España.",
+    "dimensiones": "10x4.9 cm"
+  },
+  {
+    "id": 23983,
+    "descripcion": "Cincel de bronce de sección rectangular.",
+    "periodo": "Edad del Bronce, 1500-1300 a.C.",
+    "lugar_recuperacion": "L'Arbocer-Altet de Palau, La Font de la Figuera, Valencia, España.",
+    "dimensiones": "10.9x0.9 cm"
+  },
+  {
+    "id": 43666,
+    "descripcion": "Hoja de laurel pedunculada y de bordes denticulados, de sílex.",
+    "periodo": "Paleolítico superior, Solutrense. Datación: 15000-14000 a.p.",
+    "lugar_recuperacion": "Cova del Volcán del Faro, Cullera, Valencia, España",
+    "dimensiones": "5.5 cm"
+  },
+  {
+    "id": 43737,
+    "descripcion": "Bastón con perforación realizado en asta de ciervo.",
+    "periodo": "Paleolítico superior, Solutrense. Datación: 15000-10000 a.p.",
+    "lugar_recuperacion": "Cova del Volcán del Faro, Cullera, Valencia, España.",
+    "dimensiones": "24 cm"
+  },
+  {
+    "id": 45681,
+    "descripcion": "Esqueleto de un individuo adulto masculino de Homo neanderthalensis.",
+    "periodo": "Paleolítico medio. Datación: 130000-35000 a.p.",
+    "lugar_recuperacion": "Cova Foradada, Oliva, Valencia, España.",
+    "dimensiones": ""
+  },  
+  {
+    "id": 100000,
+    "descripcion": "Cráneo de Homo Sapiens.",
+    "periodo": "Paleolítico superior. Datación: Entre 130000 y 35000 a.p. Pleistoceno medio-Holoceno",
+    "lugar_recuperacion": "Individuo de la Cova del Parpalló (Gandia, Valencia). Ubicación de la especie: Expansión global.",
+    "dimensiones": ""
+  },
+  {
+    "id": 100001,
+    "descripcion": "Cráneo de Homo Sapiens Neanderthalensis.",
+    "periodo": "Paleolítico medio. Datación: Entre 430000 y 35000 a.p. Pleistoceno medio y superior",
+    "lugar_recuperacion": "Individuo de Cova Negra (Xàtiva, Valencia).  Ubicación de la especie: Europa, Próximo oriente y Asia central",
+    "dimensiones": ""
+  },    
+  {
+    "id": 100002,
+    "descripcion": "Cráneo de Homo Heidelbergensis. Probable antepasado común de neandertales y sapiens.",
+    "periodo": "Datación: Entre 600.000 y 250.000 años.",
+    "lugar_recuperacion": "Modelo del Museo Smithsonian de Historia Natural. Ubicación de la especie: Europa, África oriental y meridional",
+    "dimensiones": "Altura aproximada: 1,57-1,75 m; Peso aproximado: 51-62 kg."
+  }, 
+  {
+    "id": 100003,
+    "descripcion": "Cráneo de Homo Erectus. Primer homínido con cuerpo más alargado y capacidad para migrar.",
+    "periodo": "Datación: Entre 1,9 millones y 100.000 años. Pleistoceno inferior y medio",
+    "lugar_recuperacion": "Modelo del Augsburg Naturmuseum. Ubicación de la especie: Este de Asia y África (para la subespecie Homo Ergaster)",
+    "dimensiones": "Altura aproximada: hasta 1,80 m"
+  }, 
+  {
+    "id": 100004,
+    "descripcion": "Cráneo de Paranthropus Aethiopicus. Presenta una característica cresta sagital.",
+    "periodo": "Datación: Entre 2,6 y 2,2 millones de años. Pleistoceno inferior.",
+    "lugar_recuperacion": "Modelo expuesto en la Universidad de Zurich. Ubicación de la especie: Etiopia",
+    "dimensiones": "Altura aproximada: 1,20 m; Peso aproximado: 40 kg."
+  }, 
+  {
+    "id": 100005,
+    "descripcion": "Cráneo de Australopithecus africanus.",
+    "periodo": "Datación: Entre 4 y 2,5 millones de años. Plioceno",
+    "lugar_recuperacion": "Individuo procedente  de Sterkfontein (Provincia de Gauteng, Sudáfrica). Ubicación de la especie: Sudáfrica y Kenya",
+    "dimensiones": "Altura aproximada: 1,20-1,40 m; Peso aproximado: 36-45 kg."
+  } 
+]

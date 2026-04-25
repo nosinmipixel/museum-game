@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "icon_ok": "✔",
+    "icon_ko": "☹"
+  },
+  "quizzes": {
+    "q001": {
+      "number": 1,
+      "question": "¿Podría decirme qué objeto es?\nParece usted muy joven y no tengo claro que pueda hacerse cargo de algo tan valioso.",
+      "options": [
+        { "label": "1. Copa caliciforme", "correct": false },
+        { "label": "2. Urna cineraria", "correct": false },
+        { "label": "3. Jarra de barniz negro", "correct": true }
+      ],
+      "tags": ["iberian", "ceramics"]
+    },
+    "q002": {
+      "number": 2,
+      "question": "¿A qué periodo de la Prehistoria pertenece el bifaz?",
+      "options": [
+        { "label": "1. Epipaleolítico", "correct": false },
+        { "label": "2. Neolítico", "correct": false },
+        { "label": "3. Paleolítico", "correct": true }
+      ],
+      "tags": ["pal", "lithic"]
+    },
+    "q003": {
+      "number": 3,
+      "question": "¿Cuál de estos materiales no se utilizaba en la Prehistoria?\nNo parece poseer los suficientes conocimientos.",
+      "options": [
+        { "label": "1. Hueso", "correct": false },
+        { "label": "2. Mármol", "correct": true },
+        { "label": "3. Sílex", "correct": false }
+      ],
+      "tags": ["pal", "lithic"]
+    },
+    "q004": {
+      "number": 4,
+      "question": "¿Cuál es el diseño más habitual en el reverso de las monedas ibéricas?",
+      "options": [
+        { "label": "1. Un jinete", "correct": true },
+        { "label": "2. Un buey", "correct": false },
+        { "label": "3. Un león", "correct": false }
+      ],
+      "tags": ["iberian", "coin"]
+    },
+    "q005": {
+      "number": 5,
+      "question": "¿Qué técnica para el trabajo de la piedra surge durante el Neolítico?",
+      "options": [
+        { "label": "1. Percusión directa", "correct": false },
+        { "label": "2. Pulimentado", "correct": true },
+        { "label": "3. Talla por presión", "correct": false }
+      ],
+      "tags": ["neo", "lithic"]
+    },
+    "q006": {
+      "number": 6,
+      "question": "¿Cuál de estos objetos no se utilizaba en la decoración de la cerámica neolítica?",
+      "options": [
+        { "label": "1. Punzón de cobre", "correct": true },
+        { "label": "2. Punzón de hueso", "correct": false },
+        { "label": "3. Concha de Cardium Edule", "correct": false }
+      ],
+      "tags": ["neo", "ceramics"]
+    },
+    "q007": {
+      "number": 7,
+      "question": "¿Qué técnica aparece en la Edad del Bronce?",
+      "options": [
+        { "label": "1. Grabado", "correct": false },
+        { "label": "2. Fundición", "correct": true },
+        { "label": "3. Talla directa", "correct": false }
+      ],
+      "tags": ["bronze", "metal"]
+    },
+    "q008": {
+      "number": 8,
+      "question": "¿Qué forma cerámica no es propia de la Edad del Bronce?",
+      "options": [
+        { "label": "1. Quesera", "correct": false },
+        { "label": "2. Olla", "correct": false },
+        { "label": "3. Caliciforme", "correct": true }
+      ],
+      "tags": ["bronze", "ceramics"]
+    },
+    "q009": {
+      "number": 10,
+      "question": "¿Con qué nombre es conocido este tipo de cerámica?",
+      "options": [
+        { "label": "1. Cerámica campaniense", "correct": false },
+        { "label": "2. Terra sigillata", "correct": true },
+        { "label": "3. Cerámica de figuras rojas", "correct": false }
+      ],
+      "tags": ["roman", "city"]
+    },
+     "q010": {
+      "number": 11,
+      "question": "Este objeto es una estátera romana ¿Sabes para qué se utilizaba?",
+      "options": [
+        { "label": "1. Para pescar", "correct": false },
+        { "label": "2. Para la construcción de casas", "correct": false },
+        { "label": "3. Para pesar objetos", "correct": true }
+      ],
+      "tags": ["roman", "city"]
+    },   
+    "q101": {
+      "number": 101,
+      "question": "¿Cuál es el objetivo principal de la conservación preventiva?",
+      "options": [
+        { "label": "1. Reparar los objetos que están rotos para poder exponerlos.", "correct": false },
+        { "label": "2. Devolver a los objetos su aspecto original, eliminando todo rastro de deterioro.", "correct": false },
+        { "label": "3. Crear las condiciones que ralenticen el deterioro de los objetos y prevenir daños.", "correct": true }
+      ],
+      "tags": ["restoration", "conservation"]
+    },
+    "q102": {
+      "number": 102,
+      "question": "¿Cuál de estos factores es más perjudicial para la mayoría de objetos arqueológicos?",
+      "options": [
+        { "label": "1. La gravedad.", "correct": false },
+        { "label": "2. La luz intensa.", "correct": true },
+        { "label": "3. El color de las paredes de la sala.", "correct": false }
+      ],
+      "tags": ["restoration", "environment"]
+    }, 
+    "q103": {
+      "number": 103,
+      "question": "¿Por qué es importante la 'reversibilidad' de materiales y técnicas en restauración?",
+      "options": [
+        { "label": "1. Para que el proceso de restauración sea más económico.", "correct": false },
+        { "label": "2. Para garantizar que los tratamientos puedan deshacerse si aparecen técnicas mejores.", "correct": true },
+        { "label": "3. Porque así los objetos se pueden limpiar con agua sin problemas.", "correct": false }
+      ],
+      "tags": ["restoration", "technics"]
+    },  
+    "q104": {
+      "number": 104,
+      "question": "¿Por qué es importante el control de la humedad relativa en los almacenes de un museo?",
+      "options": [
+        { "label": "1. La humedad alta acelera la corrosión de metales y el crecimiento de hongos.", "correct": true },
+        { "label": "2. A los investigadores les resulta más incómodo y difícil trabajar con humedad.", "correct": false },
+        { "label": "3. Los objetos se conservan mejor en condiciones de ambiente muy seco.", "correct": false }
+      ],
+      "tags": ["restoration", "environment"]
+    },  
+    "q105": {
+      "number": 105,
+      "question": "¿Cuál es el objetivo de almacenar determinados objetos en cajas de cartón libre de ácidos?",
+      "options": [
+        { "label": "1. Mejorar su presentación visual y aumentar la capacidad de almacenamiento.", "correct": false },
+        { "label": "2. Abaratar los costes de almacenamiento.", "correct": false },
+        { "label": "3. Evitar que los materiales ácidos del embalaje dañen los objetos.", "correct": true }
+      ],
+      "tags": ["restoration", "storage"]
+    }                   
+  }
+}
+

@@ -1,0 +1,42 @@
+# UPBGE / Blender
+*.blend1
+*.blend2
+*.blend~
+*.blend.lock
+autosave/
+*.crash.txt
+*.bphys
+cache/
+*.cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Builds y temporales
+Builds/
+*.log
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IA (opcional, ver nota abajo)
+# AGENTS.md
+# CLAUDE.md

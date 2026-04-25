@@ -1,0 +1,205 @@
+{
+  "meta": { "version": 1, "lang": "es" },
+  "collection_items": {
+    "pal": [
+      {
+        "id": 1,
+        "name": "Hand axe. Cova Negra (Xàtiva)",
+        "period": "pal",
+        "description": "Hand axe on a honey-coloured fine-grained flint flake. Regarding its shape and proportions, it can be classified among the elongated cordiform forms with a heel.\n\nSite: Cova Negra (Xàtiva). Mousterian (300,000-40,000 BP)",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Pal.1",
+          "slot_object": "Array.Pal.1",
+          "icons": {
+            "shelved": "Icon.Box.Pal.1",
+            "exhibited": "Icon.Exhib.Pal.1",
+            "restored": "Icon.Rest.Pal.1"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qPAL1" },
+        "tags": ["pal", "lithic", "15741"]
+      },
+      {
+        "id": 2,
+        "name": "Decorated single-bevel spear point. Cova del Parpalló (Gandía, Valencia).",
+        "period": "pal",
+        "description": "Single-bevel spear point with a decorated base. Le Placard style. The industry of decorated spear points of the Le Placard type is characteristic of the transition between the Solutrean and Magdalenian in French sites. Its presence in Cova del Parpalló indicates possible processes of technical or cultural diffusion.\n\nSite: Cova del Parpalló (Gandia). Magdalenian (17,000-16,000 BP)",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Pal.2",
+          "slot_object": "Array.Pal.2",
+          "icons": {
+            "shelved": "Icon.Box.Pal.2",
+            "exhibited": "Icon.Exhib.Pal.2",
+            "restored": "Icon.Rest.Pal.2"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qPAL2" },
+        "tags": ["pal", "", "43452"]
+      }
+    ],
+    "neo": [
+      {
+        "id": 1,
+        "name": "Jug with Cardial impressed decoration. Cova de l'Or (Beniarrés, Alicante). Early Neolithic.",
+        "period": "neo",
+        "description": "Globular-bodied jug, differentiated cylindrical neck and flat lip with two symmetrical ribbon handles located at the beginning of the neck. It features Cardial impressed decoration over the entire body except the base, consisting of alternating wide vertical bands, a horizontal band topped by joined triangles at the start of the neck, and another band coming from the edge, formed by vertical lines topped by natis impressions.\n\nCova de l'Or (Beniarrés, Alicante). Early Neolithic (5500-4800 BC).",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Neo.1",
+          "slot_object": "Array.Neo.1",
+          "icons": {
+            "shelved": "Icon.Box.Neo.1",
+            "exhibited": "Icon.Exhib.Neo.1",
+            "restored": "Icon.Rest.Neo.1"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qNEO1" },
+        "tags": ["neo", "4225"]
+      },
+      {
+        "id": 2,
+        "name": "Polished stone axe. Cova de la Sarsa (Bocairent, Valencia). Early Neolithic.",
+        "period": "neo",
+        "description": "Polished stone axe.\n\nSite: Cova de la Sarsa (Bocairent, Valencia). Early Neolithic (5500-4000 BC).",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Neo.2",
+          "slot_object": "Array.Neo.2",
+          "icons": {
+            "shelved": "Icon.Box.Neo.2",
+            "exhibited": "Icon.Exhib.Neo.2",
+            "restored": "Icon.Rest.Neo.2"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qNEO2" },
+        "tags": ["neo", "5094"]
+      }
+    ],
+    "bronze": [
+      {
+        "id": 1,
+        "name": "",
+        "period": "bronze",
+        "description": "Flat copper axe of rectangular section.\n\nSite: La Lloma de Betxí (Paterna, Valencia). Bronze Age (1800-1400 BC)",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Bronze.1",
+          "slot_object": "Array.Bronze.1",
+          "icons": {
+            "shelved": "Icon.Box.Bronze.1",
+            "exhibited": "Icon.Exhib.Bronze.1",
+            "restored": "Icon.Rest.Bronze.1"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qBRZ1" },
+        "tags": ["bronze", "metal", "856"]
+      },
+      {
+        "id": 2,
+        "name": "Cheese pot. Lloma de Betxí (Paterna, Valencia). Bronze Age.",
+        "period": "bronze",
+        "description": "Ceramic cheese pot, type C (Enguix, 1981), with a slightly flared truncated conical shape, open at the top and bottom. The upper rim is straight or re-entrant, and the base is more open or everted. The body is completely perforated. The perforations are irregular, made on the still-tender clay from the outside inwards.\n\nSite: Lloma de Betxí (Paterna, Valencia). Bronze Age (1800-1300 BC).",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Bronze.2",
+          "slot_object": "Array.Bronze.2",
+          "icons": {
+            "shelved": "Icon.Box.Bronze.2",
+            "exhibited": "Icon.Exhib.Bronze.2",
+            "restored": "Icon.Rest.Bronze.2"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qBRZ2" },
+        "tags": ["bronze", "ceramics", "7622"]
+      }
+    ],
+    "iberian": [
+      {
+        "id": 1,
+        "name": "Attic oenochoe. La Bastida de les Alcusses (Moixent, Valencia). 4th century BC.",
+        "period": "iberian",
+        "description": "Black-glaze jug (oenochoe) with a trilobed mouth, vertical handle higher than the mouth, lower half of the body with grooves, and flat base with indicated foot.\n\nSite: La Bastida de les Alcusses (Moixent, Valencia). Iberian period. 4th century BC.",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Iberian.1",
+          "slot_object": "Array.Iberian.1",
+          "icons": {
+            "shelved": "Icon.Box.Iberian.1",
+            "exhibited": "Icon.Exhib.Iberian.1",
+            "restored": "Icon.Rest.Iberian.1"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qIBE1" },
+        "tags": ["iberian", "ceramics", "855"]
+      },
+      {
+        "id": 2,
+        "name": "Kili. Unit. 1st century BC.",
+        "period": "iberian",
+        "description": "Obverse: Male head, diademed, with cloak and annular fibula, facing right, palm mark.\nReverse: Horseman, with palm, facing right and legend 'kili'.\n\nPlace of production: Kili. Iberian period (1st century BC)",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Iberian.2",
+          "slot_object": "Array.Iberian.2",
+          "icons": {
+            "shelved": "Icon.Box.Iberian.2",
+            "exhibited": "Icon.Exhib.Iberian.2",
+            "restored": "Icon.Rest.Iberian.2"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qIBE2" },
+        "tags": ["iberian", "coin", "22354"]
+      }
+    ],
+    "roman": [
+      {
+        "id": 1,
+        "name": "Terra sigillata cup. Empúries (La Escala, Girona).",
+        "period": "roman",
+        "description": "South Gaulish terra sigillata crater decorated with medallions featuring a human figure (Mercury).\n\nSite: Ampurias (L'Escala, Girona). Roman culture (1st century BC)",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Roman.1",
+          "slot_object": "Array.Roman.1",
+          "icons": {
+            "shelved": "Icon.Box.Roman.1",
+            "exhibited": "Icon.Exhib.Roman.1",
+            "restored": "Icon.Rest.Roman.1"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qROM1" },
+        "tags": ["roman", "ceramics", "248"]
+      },
+      {
+        "id": 2,
+        "name": "Early Imperial oil lamp. Ampurias (La Escala, Girona).",
+        "period": "roman",
+        "description": "Early Imperial oil lamp with a triangular spout and volutes. Decorative motif with a relief figure of a lion in the centre of the disc. Mould-made piece with fine dark brown paste and reddish slip.\n\nSite: Ampurias (L'Escala, Girona). Roman culture (1st century BC - 1st century AD)",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Roman.2",
+          "slot_object": "Array.Roman.2",
+          "icons": {
+            "shelved": "Icon.Box.Roman.2",
+            "exhibited": "Icon.Exhib.Roman.2",
+            "restored": "Icon.Rest.Roman.2"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qROM2" },
+        "tags": ["roman", "metal", "4060"]
+      }
+    ]
+  }
+}

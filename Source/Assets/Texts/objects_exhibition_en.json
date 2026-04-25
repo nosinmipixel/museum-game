@@ -1,0 +1,415 @@
+[
+  {
+    "id": 20,
+    "descripcion": "Iron falcata and iron antenna sword.",
+    "periodo": "Iron Age, Iberian Culture. 5th-3rd centuries BC.",
+    "lugar_recuperacion": "Casa del Monte, Valdeganga, Albacete, Spain.",
+    "dimensiones": null
+  },
+  {
+    "id": 132,
+    "descripcion": "Oil lamps.",
+    "periodo": "Ancient Age, Roman Empire. 1st-3rd centuries AD.",
+    "lugar_recuperacion": "Ampurias, La Escala, Girona, Spain.",
+    "dimensiones": null
+  },
+  {
+    "id": 1905,
+    "descripcion": "Incense burner or brazier in the shape of a female head with a headdress in the form of a calathus.",
+    "periodo": "Iron Age, Iberian Culture. 3rd-1st centuries BC.",
+    "lugar_recuperacion": "Puntal dels Llops, Olocau, Valencia, Spain.",
+    "dimensiones": "15.4x11 cm"
+  },
+  {
+    "id": 1911,
+    "descripcion": "Iron keys.",
+    "periodo": "Iron Age, Iberian Culture. 3rd-2nd centuries BC.",
+    "lugar_recuperacion": "Puntal dels Llops, Olocau, Valencia, Spain.",
+    "dimensiones": "11.7x5 cm"
+  },
+  {
+    "id": 2899,
+    "descripcion": "Iberian bronze votive figurine known as 'Guerrer de Moixent'.",
+    "periodo": "Iron Age, Iberian Culture. 4th century BC.",
+    "lugar_recuperacion": "La Bastida de les Alcusses, Moixent, Valencia, Spain.",
+    "dimensiones": "7.3x4x1.5 cm"
+  },
+  {
+    "id": 3098,
+    "descripcion": "Sickle preserving the wooden handle with flint teeth.",
+    "periodo": "Bronze Age. Dating: 2200-1500 BC.",
+    "lugar_recuperacion": "Mas de Menente, Alcoi, Alicante, Spain.",
+    "dimensiones": "10.48x22.1 cm"
+  },
+  {
+    "id": 3541,
+    "descripcion": "Pottery assemblage.",
+    "periodo": "Bronze Age.",
+    "lugar_recuperacion": "Lloma de Betxí, Paterna, Valencia, Spain.",
+    "dimensiones": null
+  },
+  {
+    "id": 3662,
+    "descripcion": "Sandstone mould and lid for casting flat axes and chisels.",
+    "periodo": "Bronze Age. Dating: 1800-1400 BC.",
+    "lugar_recuperacion": "Mola Alta de Serelles, Alcoi, Alicante, Spain.",
+    "dimensiones": "13.5x20 cm"
+  },
+  {
+    "id": 4302,
+    "descripcion": "Oculated idol on a fragment of deer antler with incised decoration.",
+    "periodo": "Copper Age. Dating: 2500 BC.",
+    "lugar_recuperacion": "Ereta del Pedregal, Navarrés, Valencia, Spain.",
+    "dimensiones": "2.7x18.7 cm"
+  },
+  {
+    "id": 4946,
+    "descripcion": "Massaliot amphora.",
+    "periodo": "Ancient Age, Greek Culture. 6th-5th centuries BC.",
+    "lugar_recuperacion": "El Saler, Valencia, Spain.",
+    "dimensiones": "49x35 cm"
+  },  
+  {
+    "id": 4947,
+    "descripcion": "Republican Roman amphora.",
+    "periodo": "Ancient Age, Roman Empire. 2nd century BC.",
+    "lugar_recuperacion": "Les Foies, Manuel, Valencia, Spain.",
+    "dimensiones": "88x30 cm"
+  },
+  {
+    "id": 4948,
+    "descripcion": "Punic-Ebusitan amphora.",
+    "periodo": "Ancient Age, Roman Empire. 2nd century BC.",
+    "lugar_recuperacion": "La Vila Joiosa, Alicante, Spain.",
+    "dimensiones": "112x27.5 cm"
+  },
+  {
+    "id": 5090,
+    "descripcion": "Schist bracelet.",
+    "periodo": "Early Neolithic.",
+    "lugar_recuperacion": "Cova de la Sarsa, Bocairent, Valencia, Spain.",
+    "dimensiones": "10.1 cm"
+  },
+  {
+    "id": 5099,
+    "descripcion": "Polished stone adze.",
+    "periodo": "Neolithic.",
+    "lugar_recuperacion": "Cova de l'Or, Beniarrés, Alicante, Spain.",
+    "dimensiones": "3.56 x 5.11 cm"
+  },
+  {
+    "id": 5117,
+    "descripcion": "Hand mill and sandstone grinding stone.",
+    "periodo": "Neolithic.",
+    "lugar_recuperacion": "Cova de l'Or, Beniarrés, Alicante, Spain.",
+    "dimensiones": "27 x 50 cm; 13.5 x 15 cm"
+  },
+  {
+    "id": 5140,
+    "descripcion": "Bone spoons.",
+    "periodo": "Neolithic. Dating: 5525-4850 BC.",
+    "lugar_recuperacion": "Cova de l'Or, Beniarrés, Alicante, Spain.",
+    "dimensiones": null
+  },
+  {
+    "id": 5225,
+    "descripcion": "Bone ring.",
+    "periodo": "Early Neolithic.",
+    "lugar_recuperacion": "Cova de l'Or, Beniarrés, Alicante, Spain.",
+    "dimensiones": "2.9 cm"
+  },
+  {
+    "id": 5267,
+    "descripcion": "Hemispherical bowl with Cardial impressed decoration.",
+    "periodo": "Early Neolithic.",
+    "lugar_recuperacion": "Cova de l'Or, Beniarrés, Alicante, Spain.",
+    "dimensiones": "12x10.5 cm"
+  },
+  {
+    "id": 5271,
+    "descripcion": "Twin vessel with Cardial impressed decoration.",
+    "periodo": "Early Neolithic.",
+    "lugar_recuperacion": "Cova de l'Or, Beniarrés, Alicante, Spain.",
+    "dimensiones": "8x8.8 cm"
+  },
+  {
+    "id": 6209,
+    "descripcion": "Imperial period domestic tableware.",
+    "periodo": "Ancient Age, Roman Empire. 1st-2nd centuries AD.",
+    "lugar_recuperacion": "Pla de l'Arc, Llíria, Valencia, Spain.",
+    "dimensiones": null
+  },
+  {
+    "id": 6350,
+    "descripcion": "Adornment elements made from mollusk shells and deer canines.",
+    "periodo": "Upper Paleolithic",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": null
+  },
+  {
+    "id": 6560,
+    "descripcion": "Roman oil amphora with stamp and graffito.",
+    "periodo": "Ancient Age, Roman Empire. 2nd century AD.",
+    "lugar_recuperacion": "La Vila Joiosa, Alicante, Spain.",
+    "dimensiones": null
+  },
+  {
+    "id": 7622,
+    "descripcion": "Truncated conical cheese pot.",
+    "periodo": "Bronze Age.",
+    "lugar_recuperacion": "Lloma de Betxí, Paterna, Valencia, Spain.",
+    "dimensiones": "12.4x8.1 cm"
+  },
+  {
+    "id": 7634,
+    "descripcion": "Loom weights.",
+    "periodo": "Bronze Age.",
+    "lugar_recuperacion": "Lloma de Betxí, Paterna, Valencia, Spain.",
+    "dimensiones": null
+  },
+  {
+    "id": 13570,
+    "descripcion": "Sculptural fragment of a siren or bird.",
+    "periodo": "Iron Age, Iberian Culture. 4th century BC.",
+    "lugar_recuperacion": "Corral de Saus, Moixent, Valencia, Spain.",
+    "dimensiones": "27x50.5 cm"
+  },
+  {
+    "id": 13588,
+    "descripcion": "Marble female sculpture.",
+    "periodo": "Ancient Age, Roman Empire. 2nd-3rd centuries AD.",
+    "lugar_recuperacion": "València la Vella, Riba-Roja de Túria, Valencia, Spain.",
+    "dimensiones": "14.3x30 cm"
+  },
+  {
+    "id": 13590,
+    "descripcion": "Roman bronze statue representing the god Apollo.",
+    "periodo": "Ancient Age, Roman Empire. 1st-2nd centuries AD.",
+    "lugar_recuperacion": "Pinedo, Valencia, Spain.",
+    "dimensiones": "145x53 cm"
+  },
+  {
+    "id": 16061,
+    "descripcion": "Plaquette decorated with a painted doe and two engraved equids on one side, and a doe on the other.",
+    "periodo": "Upper Paleolithic, Lower Solutrean. Dating: 23000-21500 BP.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "12.9x19.1 cm"
+  },
+  {
+    "id": 16121,
+    "descripcion": "Plaquette engraved with symbolic motifs and painted with an equid.",
+    "periodo": "Upper Paleolithic, Lower Solutrean.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "14.9x23 cm"
+  },
+  {
+    "id": 17109,
+    "descripcion": "Plaquette engraved on both sides, one with a caprid and the other with a doe, both accompanied by lines and bundles.",
+    "periodo": "Upper Paleolithic, Upper Solutrean.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "6.5x12.8 cm"
+  },
+  {
+    "id": 17110,
+    "descripcion": "Plaquette engraved and painted with a caprid and geometric motif.",
+    "periodo": "Upper Paleolithic, Upper Solutrean, Solutreogravettian I.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "5.9x8.3 cm"
+  },
+  {
+    "id": 17727,
+    "descripcion": "Plaquette engraved on both sides with a horse and straight lines.",
+    "periodo": "Upper Paleolithic, Upper Solutreogravettian I.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "3.6x3.7 cm"
+  },
+  {
+    "id": 17757,
+    "descripcion": "Plaquette engraved on both sides, one with a doe and two fawns, and a horse, and on the other a horse.",
+    "periodo": "Upper Paleolithic, Solutreogravettian I. 17,000-16,000 years BP.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "4.2x8.8 cm"
+  },
+  {
+    "id": 18125,
+    "descripcion": "Plaquette engraved with two running does.",
+    "periodo": "Upper Paleolithic, Solutreogravettian II.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "4.5x6.7 cm"
+  },
+  {
+    "id": 18169,
+    "descripcion": "Plaquette engraved with full figure of a caprid.",
+    "periodo": "Upper Paleolithic, Solutreogravettian II.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "6.4x8.5 cm"
+  },
+  {
+    "id": 18558,
+    "descripcion": "Plaquette engraved with a scene of two jumping goats.",
+    "periodo": "Upper Paleolithic, Solutreogravettian III.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "3.8x5 cm"
+  },
+  {
+    "id": 18649,
+    "descripcion": "Plaquette engraved with a caprid head.",
+    "periodo": "Upper Paleolithic, Solutreogravettian III.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "5x3 cm"
+  },
+  {
+    "id": 18704,
+    "descripcion": "Plaquette engraved and painted with the figure of a caprid on one side, and with symbolic decoration on the other.",
+    "periodo": "Upper Paleolithic, Solutreogravettian III.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "27.1x37.5 cm"
+  },
+  {
+    "id": 18888,
+    "descripcion": "Plaquette engraved on both sides, one with a doe and the other with a goat.",
+    "periodo": "Upper Paleolithic, Early Magdalenian A.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "7x12 cm"
+  },
+  {
+    "id": 19002,
+    "descripcion": "Plaquette engraved and painted with a deer on one side, and lines and paint on the other.",
+    "periodo": "Upper Paleolithic, Early Magdalenian A.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "7.6x12 cm"
+  },
+  {
+    "id": 19014,
+    "descripcion": "Plaquette engraved on both sides with decoration of bundles and lines.",
+    "periodo": "Upper Paleolithic, Early Magdalenian A.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "5x4.5 cm"
+  },
+  {
+    "id": 19635,
+    "descripcion": "Plaquette engraved with a bovid on one side, and a cervid on the other.",
+    "periodo": "Upper Paleolithic, Early Magdalenian B.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "5.4x8.1 cm"
+  },
+  {
+    "id": 20045,
+    "descripcion": "Plaquette with painted tree-like motif.",
+    "periodo": "Upper Paleolithic, Upper Magdalenian.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "6.6x10.9 cm"
+  },
+  {
+    "id": 20175,
+    "descripcion": "Plaquette engraved with a bovid.",
+    "periodo": "Upper Paleolithic, Upper Magdalenian.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "8.6x8.4 cm"
+  },
+  {
+    "id": 20507,
+    "descripcion": "Plaquette engraved with an equid.",
+    "periodo": "Upper Paleolithic.",
+    "lugar_recuperacion": "Cova del Parpalló, Gandia, Valencia, Spain.",
+    "dimensiones": "5.9x7.6 cm"
+  },
+  {
+    "id": 22253,
+    "descripcion": "Drachm. Obverse with laureate male head and reverse with androcephalic bull.",
+    "periodo": "Iron Age. Dating: End of 3rd century BC.",
+    "lugar_recuperacion": "Arse-Saguntum",
+    "dimensiones": null
+  },
+  {
+    "id": 23871,
+    "descripcion": "Reconstruction of a Neolithic bone flute.",
+    "periodo": "Neolithic.",
+    "lugar_recuperacion": "Cova de l'Or, Beniarrés, Alicante, Spain.",
+    "dimensiones": "6.9x0.7 cm"
+  },
+  {
+    "id": 23981,
+    "descripcion": "Set of metal pieces.",
+    "periodo": "Bronze Age, ca. 1500 BC.",
+    "lugar_recuperacion": "L'Arbocer-Altet de Palau, La Font de la Figuera, Valencia, Spain.",
+    "dimensiones": null
+  },
+  {
+    "id": 23982,
+    "descripcion": "Flat bronze axe of rectangular section.",
+    "periodo": "Bronze Age, 1500-1300 BC.",
+    "lugar_recuperacion": "L'Arbocer-Altet de Palau, La Font de la Figuera, Valencia, Spain.",
+    "dimensiones": "10x4.9 cm"
+  },
+  {
+    "id": 23983,
+    "descripcion": "Bronze chisel of rectangular section.",
+    "periodo": "Bronze Age, 1500-1300 BC.",
+    "lugar_recuperacion": "L'Arbocer-Altet de Palau, La Font de la Figuera, Valencia, Spain.",
+    "dimensiones": "10.9x0.9 cm"
+  },
+  {
+    "id": 43666,
+    "descripcion": "Pedunculated laurel leaf with denticulated edges, made of flint.",
+    "periodo": "Upper Paleolithic, Solutrean. Dating: 15000-14000 BP.",
+    "lugar_recuperacion": "Cova del Volcán del Faro, Cullera, Valencia, Spain",
+    "dimensiones": "5.5 cm"
+  },
+  {
+    "id": 43737,
+    "descripcion": "Perforated baton made from deer antler.",
+    "periodo": "Upper Paleolithic, Solutrean. Dating: 15000-10000 BP.",
+    "lugar_recuperacion": "Cova del Volcán del Faro, Cullera, Valencia, Spain.",
+    "dimensiones": "24 cm"
+  },
+  {
+    "id": 45681,
+    "descripcion": "Skeleton of an adult male individual of Homo neanderthalensis.",
+    "periodo": "Middle Paleolithic. Dating: 130000-35000 BP.",
+    "lugar_recuperacion": "Cova Foradada, Oliva, Valencia, Spain.",
+    "dimensiones": ""
+  },  
+  {
+    "id": 100000,
+    "descripcion": "Homo Sapiens skull.",
+    "periodo": "Upper Paleolithic. Dating: Between 130000 and 35000 BP. Middle Pleistocene-Holocene",
+    "lugar_recuperacion": "Individual from Cova del Parpalló (Gandia, Valencia). Species location: Global expansion.",
+    "dimensiones": ""
+  },
+  {
+    "id": 100001,
+    "descripcion": "Homo Sapiens Neanderthalensis skull.",
+    "periodo": "Middle Paleolithic. Dating: Between 430000 and 35000 BP. Middle and Upper Pleistocene",
+    "lugar_recuperacion": "Individual from Cova Negra (Xàtiva, Valencia). Species location: Europe, Near East and Central Asia",
+    "dimensiones": ""
+  },    
+  {
+    "id": 100002,
+    "descripcion": "Homo Heidelbergensis skull. Probable common ancestor of Neanderthals and Sapiens.",
+    "periodo": "Dating: Between 600,000 and 250,000 years.",
+    "lugar_recuperacion": "Model from the Smithsonian Museum of Natural History. Species location: Europe, East and South Africa",
+    "dimensiones": "Approximate height: 1.57-1.75 m; Approximate weight: 51-62 kg."
+  }, 
+  {
+    "id": 100003,
+    "descripcion": "Homo Erectus skull. First hominid with a more elongated body and capacity to migrate.",
+    "periodo": "Dating: Between 1.9 million and 100,000 years. Lower and Middle Pleistocene",
+    "lugar_recuperacion": "Model from the Augsburg Naturmuseum. Species location: East Asia and Africa (for the subspecies Homo Ergaster)",
+    "dimensiones": "Approximate height: up to 1.80 m"
+  }, 
+  {
+    "id": 100004,
+    "descripcion": "Paranthropus Aethiopicus skull. Features a characteristic sagittal crest.",
+    "periodo": "Dating: Between 2.6 and 2.2 million years. Lower Pleistocene.",
+    "lugar_recuperacion": "Model exhibited at the University of Zurich. Species location: Ethiopia",
+    "dimensiones": "Approximate height: 1.20 m; Approximate weight: 40 kg."
+  }, 
+  {
+    "id": 100005,
+    "descripcion": "Australopithecus africanus skull.",
+    "periodo": "Dating: Between 4 and 2.5 million years. Pliocene",
+    "lugar_recuperacion": "Individual from Sterkfontein (Gauteng Province, South Africa). Species location: South Africa and Kenya",
+    "dimensiones": "Approximate height: 1.20-1.40 m; Approximate weight: 36-45 kg."
+  } 
+]

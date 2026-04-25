@@ -1,0 +1,712 @@
+{
+  "names": {
+    "none":"",
+    "player": "Curator",
+    "npc1": "Elderly man",
+    "npc2": "University researcher",
+    "npc3": "Hiking club member",
+    "npc4": "Numismatics enthusiast",
+    "npc5": "Little girl", 
+    "npc6": "Local chronicler",
+    "npc7": "Journalist",
+    "npc8": "Private collector",
+    "npc9": "High school student",
+    "npc10": "Foreign tourist",
+    "npc11": "Restorer",
+    "npc12": "Librarian", 
+    "npc13": "Security guard",
+    "npc14": "Visitor"
+  },
+  "dialogs": {
+    "scene0": {
+      "none": [
+        ""
+      ]
+    },
+    "scene1": {
+      "player": [
+        "",
+        "Ummm. Wow! How interesting! \nCould I see the piece?"
+      ],
+      "npc1": [
+        "",
+        "{npc1_name}: Good morning, I've come to deposit a piece that has been in my family for years.",
+        "{npc1_name}: Of course! Here it is.",
+        "{npc1_name}: By the way, could you tell me what object it is?\nYou seem very young and I'm not sure you can handle something so valuable.",
+        "{npc1_name}: Young man!\nYou don't seem very sharp.",
+        "{npc1_name}: I think I'll keep this jewel in my family.\nA visit to the Library wouldn't do you any harm.",
+        "{npc1_name}: Wow! I'm impressed by your knowledge.\nI think I can trust you and deposit this magnificent object in your museum."
+      ]
+    },
+    "scene2": {
+      "player": [
+        "",
+        "No problem.\nNow I will surely be able to identify it."
+      ],
+      "npc1": [
+        "",
+        "{npc1_name}: Young man, I'm back again.\nI wanted to give you another chance to deposit this object in your museum.",
+        "{npc1_name}: We'll see.\nDo you know what object it is yet?",
+        "{npc1_name}: I don't see any improvement in your knowledge since last time!\nI'll keep this jewel in my family.",
+        "{npc1_name}: What a great improvement!\nI appreciate your effort!\nI think, without a doubt, I can deposit this magnificent object in your museum."
+      ]
+    },
+    "scene3": {
+      "player": [
+        "",
+        "It's a great responsibility.\nI must identify it."
+      ],
+      "npc1": [
+        "",
+        "{npc1_name}: I wanted to give you one last chance to deposit the object I own here.",
+        "{npc1_name}: I hope so.\nDo you know what object it is yet?",
+        "{npc1_name}: Under no circumstances do you meet the conditions to safeguard this object!\nThis object will remain permanently in my family.",
+        "{npc1_name}: What a great improvement!\nI appreciate your effort!\nI think, without a doubt, I can deposit this magnificent object in your museum."
+      ]
+    },
+    "scene4": {
+      "player": [
+        "",
+        "It's a fascinating period, the longest of human existence."
+      ],
+      "npc2": [
+        "",
+        "{npc2_name}: Hello, I'm here because I need information for a research project on Paleolithic lithic industry.",
+        "{npc2_name}: Yes. That's why I chose this specialty, although I still find it difficult to date some materials.",
+        "{npc2_name}: Could you tell me which period of Prehistory this hand axe belongs to?",
+        "{npc2_name}: Wow! I thought that you, as a curator, would help me correctly date this piece.",
+        "{npc2_name}: Although you will surely find the necessary information in the Library to document this type of object.",
+        "{npc2_name}: It's a privilege to have the help of true specialists like you.\nI am truly grateful."
+      ]
+    },
+    "scene5": {
+      "player": [
+        "",
+        "I'll be happy to help you with whatever you need."
+      ],
+      "npc2": [
+        "",
+        "{npc2_name}: I've returned to the museum to continue my study of materials.",
+        "{npc2_name}: By the way, have you figured out which period the hand axe we saw earlier belongs to?",
+        "{npc2_name}: Anyway. Dating lithic industry is not your strong suit.",
+        "{npc2_name}: Perfect. I see you've done your homework."
+      ]
+    },
+    "scene6": {
+      "player": [
+        "",
+        "I think I'm making progress with my knowledge."
+      ],
+      "npc2": [
+        "",
+        "{npc2_name}: For my part, I continue with my research work.\nHave you made progress in dating lithic industry?",
+        "{npc2_name}: Could you tell me which period of Prehistory this hand axe belongs to?",
+        "{npc2_name}: Wow. I won't bother you further with this question.\nI wouldn't want to embarrass you in front of other colleagues.",
+        "{npc2_name}: Perfect. I see you've done your homework."
+      ]
+    },
+    "scene7": {
+      "player": [
+        "",
+        "It seems like a magnificent initiative.\nDisseminating Prehistory is essential."
+      ],
+      "npc3": [
+        "",
+        "{npc3_name}: Good morning! I'm from the Local Hiking Club.\nWe are preparing a small exhibition on technology in Prehistory.",
+        "{npc3_name}: Of course! That's why we're here.\nWe want to be as faithful as possible and we have doubts about some technical aspects of that period.",
+        "{npc3_name}: Could you tell us which of these materials was not used in Prehistory?",
+        "{npc3_name}: Wow, I'm afraid that answer doesn't match other inquiries we've made.",
+        "{npc3_name}: Perhaps we'll clear up our doubts if you consult your library's holdings.\nIn any case, I'll come back to see if you can shed light on this matter.",
+        "{npc3_name}: Perfect! That confirms what we had read.\nNow our exhibition will gain much in rigor.\nThank you very much."
+      ]
+    },
+    "scene8": {
+      "player": [
+        "",
+        "Yes, I've consulted some publications on technology in Prehistory."
+      ],
+      "npc3": [
+        "",
+        "{npc3_name}: I've returned, I hope you've been able to find out something about the matter we discussed.",
+        "{npc3_name}: Glad to hear it. So, have you been able to confirm which of those materials was not used in Prehistory?",
+        "{npc3_name}: I'm sorry to say that doesn't seem to be the correct answer.\nI'll come back to clear up this matter once and for all.",
+        "{npc3_name}: That's the way! I see you've gotten your act together.\nThis confirmation will be very helpful to us."
+      ]
+    },
+    "scene9": {
+      "player": [
+        "",
+        "Indeed. This time I'm sure."
+      ],
+      "npc3": [
+        "",
+        "{npc3_name}: Last visit to resolve our doubt.\nHave you learned your lesson?",
+        "{npc3_name}: Glad to hear it.\nSo, have you been able to confirm which of those materials was not used in Prehistory?",
+        "{npc3_name}: I'm sorry but I think that, even we, have a clearer understanding of some basic concepts.\nIn any case, we won't take up any more of your time.",
+        "{npc3_name}: Finally! Thank goodness.\nNow we can ensure greater certainty in the content of our exhibition."
+      ]
+    },
+    "scene10": {
+      "player": [
+        "",
+        "It's an exciting field.\nIberian coins are full of small details."
+      ],
+      "npc4": [
+        "",
+        "{npc4_name}: Good afternoon. I'm a collector and I'm especially interested in Iberian numismatics.",
+        "{npc4_name}: Yes, indeed I am.\nI'm inventorying my collection and identifying the reverses is key to correct cataloging.",
+        "{npc4_name}: By the way, could you tell me what the most common design is on the reverse of Iberian coins like this unit from Kelin?",
+        "{npc4_name}: Hmm, I'm not sure that's correct.\nAfter consulting many catalogs, I've reached a different conclusion.",
+        "{npc4_name}: You would surely benefit from reviewing some monograph specialized in Iberian minting.\nI'll come back later.",
+        "{npc4_name}: Exactly! A horseman with a spear.\nIt's a pleasure to speak with a professional who masters this subject."
+      ]
+    },
+    "scene11": {
+      "player": [
+        "",
+        "I've reviewed some of our holdings and I think I'm in a position to answer you."
+      ],
+      "npc4": [
+        "",
+        "{npc4_name}: I've returned to continue studying the pieces in your exhibition.\nHave you been able to delve into my question?",
+        "{npc4_name}: Well? What is the most typical reverse of Iberian coins?",
+        "{npc4_name}: Wow, I'm afraid your answer does not match my research.\nI still trust my catalogs more.",
+        "{npc4_name}: Bravo! Now you are correct.\nI'm glad you were able to confirm it."
+      ]
+    },
+    "scene12": {
+      "player": [
+        "",
+        "This time I am absolutely certain."
+      ],
+      "npc4": [
+        "",
+        "{npc4_name}: This is the last time I come to consult you.\nI hope you have it clear now.",
+        "{npc4_name}: What is the most common design on the reverse of Iberian coins?",
+        "{npc4_name}: Definitely, you will have to specialize more in the field of numismatics.\nI'll stick with my books.\nGood day.",
+        "{npc4_name}: Magnificent! A horseman.\nYou can now consider yourself an expert.\nThank you for your help."
+      ]
+    },
+    "scene13": {
+      "player": [
+        "",
+        "Hello! Great, I love it when the little ones take an interest in Prehistory."
+      ],
+      "npc5": [
+        "",
+        "{npc5_name}: Hello, Mr. Curator.\nWe're doing a school project on the Neolithic.",
+        "{npc5_name}: Yes, and my teacher told us to look closely at the stones.\nThis stone is very smooth, not like others that look rougher.",
+        "{npc5_name}: Do you know which stone-working technique emerged during the Neolithic and left it so smooth?",
+        "{npc5_name}: Oh! Well, I think my teacher told us something different.",
+        "{npc5_name}: Maybe if you look in those big books you have in the Library, you'll find it.",
+        "{npc5_name}: Yes, yes, polishing! I knew it!\nThank you very much!\nI'll tell the teacher how much they know in this museum."
+      ]
+    },
+    "scene14": {
+      "player": [
+        "",
+        "Yes, I've been doing some research for you."
+      ],
+      "npc5": [
+        "",
+        "{npc5_name}: I've come back with my notebook.\nHave you found more information about those very smooth stones yet?",
+        "{npc5_name}: So? What is the name of that stone-working technique that emerged during the Neolithic?",
+        "{npc5_name}: Oh, no. I think you've made a mistake.\nI don't remember my teacher saying anything about that.",
+        "{npc5_name}: You've got it! Great!\nNow my teacher will definitely give me an A."
+      ]
+    },
+    "scene15": {
+      "player": [
+        "",
+        "Of course I remember!"
+      ],
+      "npc5": [
+        "",
+        "{npc5_name}: This is the last time I can come.\nI'm running out of time to do my school project.",
+        "{npc5_name}: Do you remember the name of that stone-working technique that emerged during the Neolithic?",
+        "{npc5_name}: Wow, it seems very difficult.\nDon't worry, I'll explain it to you myself someday when I learn it better.\nGoodbye!",
+        "{npc5_name}: Good! Polishing! That's it.\nNow you really seem like a true curator.\nThank you!"
+      ]
+    },
+    "scene16": {
+      "player": [
+        "",
+        "It's a pleasure.\nThe study of local history is really important as a basis for understanding more general phenomena."
+      ],
+      "npc6": [
+        "",
+        "{npc6_name}: Good morning. I'm the official chronicler of a nearby town and I'm documenting our most remote past.",
+        "{npc6_name}: That's right.\nAnd I would like to delve into some aspects of the daily life of our Neolithic ancestors, 'to their very core', as they say.",
+        "{npc6_name}: Specifically, to be rigorous, could you tell me which of these elements was not used in the decoration of Neolithic pottery?",
+        "{npc6_name}: Hmm, I'm afraid your sources are not entirely precise.\nThat does not agree with what I have been able to read.",
+        "{npc6_name}: I advise you to consult your Library.\nEven in ours we have some very interesting publications on the subject.",
+        "{npc6_name}: Exactly! I'm pleased to see that you are well documented.\nIt will be a pleasure to return to share knowledge."
+      ]
+    },
+    "scene17": {
+      "player": [
+        "",
+        "Yes, I've been able to consult some documents."
+      ],
+      "npc6": [
+        "",
+        "{npc6_name}: I've returned to cross-check more data.\nHave you had time to review my question?",
+        "{npc6_name}: Well? Have you found the anachronistic element?\nWhich of these utensils was not used in the decoration of Neolithic pottery?",
+        "{npc6_name}: I'm sorry to say that you persist in error.\nAs a chronicler, I must be inflexible on these types of issues.",
+        "{npc6_name}: Correct! I see you've used your time well.\nTake note for future consultations."
+      ]
+    },
+    "scene18": {
+      "player": [
+        "",
+        "I am confident that it is so."
+      ],
+      "npc6": [
+        "",
+        "{npc6_name}: One last consultation to clear up doubts.\nI hope the answer is now definitive.",
+        "{npc6_name}: Have you found the anachronistic element yet?\nWhich of these utensils was not used in the decoration of Neolithic pottery?",
+        "{npc6_name}: Definitely, I will inform other colleagues that this museum is not a reliable source for certain technical inquiries.\nHave a good day.",
+        "{npc6_name}: Finally! The copper spatula, indeed.\nYou have been able to overcome my inquisitive questions.\nThank you."
+      ]
+    },
+    "scene19": {
+      "player": [
+        "",
+        "Ah, welcome! The specialized press is always a great ally."
+      ],
+      "npc7": [
+        "",
+        "{npc7_name}: Good morning, I'm a journalist from 'Historia Viva' magazine.\nI'm preparing a report on technological advances in antiquity.",
+        "{npc7_name}: Thank you.\nFor the article, it's crucial to highlight technological leaps.\nThis copper axe marks a before and after, since bronze represented a true revolution.",
+        "{npc7_name}: For context, could you tell me which technique appears in the Bronze Age?",
+        "{npc7_name}: Mmm, that information does not match the information I had.\nI will have to cross-check it with other sources to avoid publishing any errors.",
+        "{npc7_name}: Perhaps I will have to find someone who knows more about ancient metallurgy.\nI suggest you also get up to speed.",
+        "{npc7_name}: Smelting! Exactly.\nI can already see the headline.\nPerfect for my report.\nYou'll get a special mention."
+      ]
+    },
+    "scene20": {
+      "player": [
+        "",
+        "I think I have it clearer now."
+      ],
+      "npc7": [
+        "",
+        "{npc7_name}: I've returned to get more information on other topics,\nbut since I'm here, I'd like to know if you've figured out the other day's question.",
+        "{npc7_name}: What is the technique that appears in the Bronze Age?",
+        "{npc7_name}: Ummm, we still don't have a clear answer\nand I can't risk publishing incorrect information.",
+        "{npc7_name}: That's it! Smelting!\nNow I can confirm this information!"
+      ]
+    },
+    "scene21": {
+      "player": [
+        "",
+        "This time I am sure."
+      ],
+      "npc7": [
+        "",
+        "{npc7_name}: One last chance to confirm the key information. Will you finally be able to help me?",
+        "{npc7_name}: What is the metallurgical technique that emerges in the Bronze Age?",
+        "{npc7_name}: Definitely, I'll look for another specialist.\nThanks anyway.",
+        "{npc7_name}: Correct! Smelting.\nI'm glad you were finally able to clarify it.\nIt will be very helpful."
+      ]
+    },
+    "scene22": {
+      "player": [
+        "",
+        "There are very interesting private collections.\nMany of their pieces can have great scientific value,\nalthough most have lost their archaeological context."
+      ],
+      "npc8": [
+        "",
+        "{npc8_name}: Good afternoon.\nI own a rather respectable collection of ancient pottery,\nand sometimes I come to museums like yours to... compare pieces.",
+        "{npc8_name}: Well.\nI consider myself a connoisseur.\nFor example, I have a piece that, in my opinion, is a Bronze Age pot.\nBut a rival... I mean, another collector, insists that it cannot be from that period.",
+        "{npc8_name}: To settle the matter, tell me: Which of these ceramic forms is not characteristic of the Bronze Age?",
+        "{npc8_name}: Ha! Just what I thought.\nIt seems your knowledge of ceramic forms is not very deep.",
+        "{npc8_name}: You should visit some prestigious private collections.\nWe reach where these public collections cannot.",
+        "{npc8_name}: Wow! I am pleasantly surprised.\nIndeed, the calathus is much later.\nYou might be surprised to know that I also have one of those."
+      ]
+    },
+    "scene23": {
+      "player": [
+        "",
+        "My answer will be more accurate this time, I'm sure."
+      ],
+      "npc8": [
+        "",
+        "{npc8_name}: I've returned.\nI've been thinking about our previous conversation and wanted to give you a second chance.",
+        "{npc8_name}: Let's see.\nWhich of these ceramic forms is not characteristic of the Bronze Age?",
+        "{npc8_name}: Incredible.\nI don't know if you're pulling my leg.\nThe staff of this museum are not up to the standard of my collection.",
+        "{npc8_name}: Umm, I see you've learned your lesson.\nGood for you.\nYou finally demonstrate some good judgment."
+      ]
+    },
+    "scene24": {
+      "player": [
+        "",
+        "I definitely have the correct answer."
+      ],
+      "npc8": [
+        "",
+        "{npc8_name}: Last visit.\nI hope 'third time's a charm'.",
+        "{npc8_name}: We'll see.\nWhich of these ceramic forms is not characteristic of the Bronze Age?",
+        "{npc8_name}: No.\nDefinitely, I don't know how you do things here.\nI prefer to trust my own judgment.\nGood day and goodbye forever.",
+        "{npc8_name}: Correct.\nThe calathus.\nI'm glad you finally reached the right conclusion."
+      ]
+    },
+    "scene25": {
+      "player": [
+        "",
+        "Hello! Of course, ask whatever you need."
+      ],
+      "npc9": [
+        "",
+        "{npc9_name}: Hello, good day.\nExcuse us, we're from 1st year of secondary school and we have to do a project on Rome.",
+        "{npc9_name}: Great, thanks.\nThis pot really catches our attention because it has a super cool shine and color.",
+        "{npc9_name}: Could you tell us what this type of beautiful pottery is called?",
+        "{npc9_name}: Oh, I think I saw a different name in our textbook.",
+        "{npc9_name}: We have to come back this way, so you could look it up in one of those big catalogs you have.\nOr on the internet.",
+        "{npc9_name}: Terra sigillata! That's it!\nThank you very much!\nThe teacher will definitely give us a ten."
+      ]
+    },
+    "scene26": {
+      "player": [
+        "",
+        "Of course I remember! Yes, I've checked Roman pottery catalogs."
+      ],
+      "npc9": [
+        "",
+        "{npc9_name}: Hello, we're back.\nDo you remember us?\nHave you looked up the name of the pottery?",
+        "{npc9_name}: Yes? What is this type of pottery called?",
+        "{npc9_name}: Ugh, I think that's still not it.\nI don't know whether to ask the other history teacher at school.",
+        "{npc9_name}: Yes! I knew it!\nNow you remember.\nThanks for everything."
+      ]
+    },
+    "scene27": {
+      "player": [
+        "",
+        "This time you'll have the correct name."
+      ],
+      "npc9": [
+        "",
+        "{npc9_name}: Hello again.\nThis is the last time we can come by.",
+        "{npc9_name}: What is this type of pottery called?",
+        "{npc9_name}: Well, no problem.\nWe all make mistakes.\nThanks anyway.\nGoodbye!",
+        "{npc9_name}: Terra sigillata! Confirmed and noted!\nThank you very much for your help!"
+      ]
+    },
+    "scene28": {
+      "player": [
+        "",
+        "Thank you! I'm glad you like it.\nDo you need help with something?"
+      ],
+      "npc10": [
+        "",
+        "{npc10_name}: Hello! Excuse me, this museum is wonderful!\nAnd I am especially fascinated by the Roman era.",
+        "{npc10_name}: Oh, yes! This object seems so... advanced for its time.\nI think I know what it is and I'd like to mention it on my travel blog.",
+        "{npc10_name}: This guide says it's a Roman steelyard.\nBut do you know what these objects were used for?",
+        "{npc10_name}: Oh, I thought it was for something else.\nI saw a YouTube video that related it to something different.",
+        "{npc10_name}: Perhaps you can check it in your database.\nI'm sure you'll find the correct information.\nI'll come back here later.",
+        "{npc10_name}: Yes! For weighing objects! That's what I thought.\nPerfect!\nNow I am completely sure and I can talk about it without any problem.\nThank you very much!"
+      ]
+    },
+    "scene29": {
+      "player": [
+        "",
+        "I've been doing some research, yes."
+      ],
+      "npc10": [
+        "",
+        "{npc10_name}: Hello again! I've returned to see that beautiful steelyard.\nIt's a captivating piece.\nHave you found out more about its use?",
+        "{npc10_name}: Great! So, what was a steelyard used for?",
+        "{npc10_name}: Mmm, I'm not sure that's correct.\nI've also consulted information and I have the impression that you're somewhat off track.",
+        "{npc10_name}: Oh, yes! I think we finally agree.\nIt was for weighing.\nThank you for checking and confirming it."
+      ]
+    },
+    "scene30": {
+      "player": [
+        "",
+        "Now I have no doubt."
+      ],
+      "npc10": [
+        "",
+        "{npc10_name}: Last visit! I have to return to my country, although I hope you have the definitive answer for my blog readers.",
+        "{npc10_name}: Great! So, what was a steelyard used for?",
+        "{npc10_name}: I'd say your information doesn't match mine.\nI have many doubts and I don't know if I'll finally write about this object on my blog.\nThanks anyway.",
+        "{npc10_name}: Excellent! 'It was used for weighing objects'.\nPerfect!\nMy followers will love this detail.\nYou've been very helpful!"
+      ]
+    },
+    "scene31": {
+      "player": [
+        "",
+        "Hello. I'd like you to analyze this object to see if it needs any intervention."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Wow!\nYou here!",
+        "{npc11_name}: Of course! I'll do it gladly...\nBut first you'll have to answer a small question.",
+        "{npc11_name}: What is the main objective of preventive conservation?",
+        "{npc11_name}: Oh, dear!\nI think you're a bit lost.",
+        "{npc11_name}: I'll make you suffer a little.\nI'll let you know when to come back here.",
+        "{npc11_name}: Correct! Preventive conservation does not focus on directly intervening on the object, but on protecting it by controlling its environment."
+      ]
+    },     
+    "scene32": {
+      "player": [
+        "",
+        "I've been doing some research, yes."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Hello again! Have you done your homework?",
+        "{npc11_name}: Great! So, what is the main objective of preventive conservation?",
+        "{npc11_name}: Ummm, this piece will have to wait a little longer.\nI'll let you know again.",
+        "{npc11_name}: Correct! Preventive conservation does not focus on directly intervening on the object, but on protecting it by controlling its environment."
+      ] 
+    },
+    "scene33": {
+      "player": [
+        "",
+        "Without a doubt. I definitely have the correct answer."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Here again! Will you be able to answer correctly?",
+        "{npc11_name}: Perfect! Tell me, what is the main objective of preventive conservation?",
+        "{npc11_name}: Anyway, I have no choice but to accept the piece for analysis.\nBut your knowledge of conservation is not going to increase.",
+        "{npc11_name}: Correct! Preventive conservation does not focus on directly intervening on the object, but on protecting it by controlling its environment."
+      ]
+    },
+    "scene34": {
+      "player": [
+        "",
+        "Yes, indeed. I'm back with another object to examine its state of conservation."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Hello!\nI suppose you need your personal lifesaver again!",
+        "{npc11_name}: Well, you know...\nFirst you have to answer a small question.",
+        "{npc11_name}: Which of these factors is one of the most harmful for most archaeological objects?",
+        "{npc11_name}: Ummm.\nI see you're weak at determining environmental factors.",
+        "{npc11_name}: I think you'll have to wait.\nI'll give you time to increase your knowledge.",
+        "{npc11_name}: Correct! Light, especially UV, can cause discoloration, fragility, and aging in organic materials such as wood, textiles, and paper."
+      ]
+    },     
+    "scene35": {
+      "player": [
+        "",
+        "Yes. I've consulted some preventive conservation manual."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Well? Have you looked into the influence of the environment on our collections?",
+        "{npc11_name}: Great! So, which of these factors is one of the most harmful for most archaeological objects?",
+        "{npc11_name}: Ummm, this piece will have to wait a little longer.\nI'll call you later to see if you have it clearer.",
+        "{npc11_name}: Correct! Light, especially UV, can cause discoloration, fragility, and aging in organic materials such as wood, textiles, and paper."
+      ] 
+    },
+    "scene36": {
+      "player": [
+        "",
+        "Indeed. The doubt is offensive."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Here again!,\nWill you finally be able to answer my question?",
+        "{npc11_name}: Perfect! Tell me, which of these factors is one of the most harmful for most archaeological objects?",
+        "{npc11_name}: Oh dear! I have to accept the piece for analysis.\nBut you still haven't increased your knowledge of preventive conservation.",
+        "{npc11_name}: Correct! Light, especially UV, can cause discoloration, fragility, and aging in organic materials such as wood, textiles, and paper."
+      ] 
+    },  
+    "scene37": {
+      "player": [
+        "",
+        "You know you're my inspiration. Here I bring another object for you to check its state of conservation."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Hello!\nWere you missing my wisdom and advice?",
+        "{npc11_name}: Well, I think you know how this goes...\nFirst you'll have to answer me a question.",
+        "{npc11_name}: Why is the 'reversibility' of materials and techniques important in restoration?",
+        "{npc11_name}: I think you still have gaps in restoration techniques.",
+        "{npc11_name}: I'll make you suffer a little.\nI'll give you some time to resolve your doubts.",
+        "{npc11_name}: Correct! Reversibility allows the original object to be restored, thus facilitating the application of better techniques in the future."
+      ]
+    },     
+    "scene38": {
+      "player": [
+        "",
+        "Well. I've been looking at some publications."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Well, have you consulted anything about restoration techniques?",
+        "{npc11_name}: Then it will be easy for you to answer: Why is the 'reversibility' of materials and techniques important in restoration?",
+        "{npc11_name}: Ummm, this piece will have to wait a little longer.\nKeep an eye on the phone and I'll let you know.",
+        "{npc11_name}: Correct! Reversibility allows the original object to be restored, thus facilitating the application of better techniques in the future."
+      ] 
+    },
+    "scene39": {
+      "player": [
+        "",
+        "I'm ready. You can ask."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Here again!,\nWill you finally be able to answer my question?",
+        "{npc11_name}: Here we go! Why is the 'reversibility' of materials and techniques important in restoration?",
+        "{npc11_name}: Oh dear, I must analyze the piece.\nBut it worries me that you cannot increase your knowledge about restoration.",
+        "{npc11_name}: Correct! Reversibility allows the original object to be restored, thus facilitating the application of better techniques in the future."
+      ] 
+    },  
+    "scene40": {
+      "player": [
+        "",
+        "I can't live without you. This is another object that needs your wisdom."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Hello!\nHave you come to see your favorite restorer?",
+        "{npc11_name}: It's possible.\nBut you know you have to answer a little question.",
+        "{npc11_name}: Why is controlling relative humidity important in museum storage areas?",
+        "{npc11_name}: I think you'll have to research something about museum environmental conditions.",
+        "{npc11_name}: You know. I'll call you when I think you know something more about this.",
+        "{npc11_name}: Correct! High humidity degrades metals and wood. It also causes the growth of microorganisms and other irreversible damage to archaeological materials."
+      ]
+    },     
+    "scene41": {
+      "player": [
+        "",
+        "Yes, indeed. I've consulted some manuals on conservation."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Well? Have you consulted anything about museum environmental conditions?",
+        "{npc11_name}: Then it will be easy for you to answer: Why is controlling relative humidity important in museum storage areas?",
+        "{npc11_name}: Ummm, this piece will have to wait a little longer.\nI'll let you know later.",
+        "{npc11_name}: Correct! High humidity degrades metals and wood. It also causes the growth of microorganisms and other irreversible damage to archaeological materials."
+      ] 
+    },
+    "scene42": {
+      "player": [
+        "",
+        "I'd say yes. Fire away!"
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Here again!,\nWill you finally be able to answer my question?",
+        "{npc11_name}: Here I go! Why is controlling relative humidity important in museum storage areas?",
+        "{npc11_name}: Anyway, I have to analyze the piece.\nBut this failure prevents you from increasing your knowledge about restoration.",
+        "{npc11_name}: Correct! High humidity degrades metals and wood. It also causes the growth of microorganisms and other irreversible damage to archaeological materials."
+      ] 
+    },  
+    "scene43": {
+      "player": [
+        "",
+        "Indeed. Here I bring another object that needs your knowledge."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Hello!\nIt seems you can't live without me. Hahaha.",
+        "{npc11_name}: Surely.\nBut you know you have to go through the obligatory question.",
+        "{npc11_name}: What is the objective of storing certain objects in acid-free cardboard boxes?",
+        "{npc11_name}: I think you'll have to research something about storage materials.",
+        "{npc11_name}: I'll give you time to look deeper into this topic.",
+        "{npc11_name}: Correct! Neutral and stable materials are used to avoid transferring harmful substances to objects and accelerating deterioration."
+      ]
+    },     
+    "scene44": {
+      "player": [
+        "",
+        "Yes. I've reviewed some books on conservation."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Well? Have you consulted anything about packaging and conservation materials?",
+        "{npc11_name}: Then it will be easy for you to answer: What is the objective of storing certain objects in acid-free cardboard boxes?",
+        "{npc11_name}: Ummm. Apply yourself to find the correct answer. I'll call you.",
+        "{npc11_name}: Correct! Neutral and stable materials are used to avoid transferring harmful substances to objects and accelerating deterioration."
+      ] 
+    },
+    "scene45": {
+      "player": [
+        "",
+        "Sure. This is the definitive one.\n Ask away!"
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Here again!,\nWill you have the correct answer now?",
+        "{npc11_name}: Here I go! What is the objective of storing certain objects in acid-free cardboard boxes?",
+        "{npc11_name}: Anyway, I have to keep the piece for analysis.\nBut this blunder prevents you from increasing your knowledge about restoration.",
+        "{npc11_name}: Correct! Neutral and stable materials are used to avoid transferring harmful substances to objects and accelerating deterioration."
+      ] 
+    },         
+    "scene100": {
+      "player": [
+        ""
+      ],
+      "npc13": [
+        "RIIIIIIIIING, RIIIIIIIIING, RIIIIIIIIING",
+        "{npc13_name}: Good morning. I'm from Museum Security.\n A person has come to make an inquiry.",
+        "{npc13_name}: Could you come to the service entrance when you can? Thank you."
+      ]
+    },
+    "scene101": {
+      "player": [
+        ""
+      ],
+      "npc11": [
+        "RIIIIIIIIING, RIIIIIIIIING, RIIIIIIIIING",
+        "{npc11_name}: Good morning.\n Have you caught up with Preventive Conservation?",
+        "{npc11_name}: If so, you can come to the Restoration Laboratory."
+      ]
+    },
+     "scene102": {
+      "player": [
+        "Yes, indeed. Knowledge takes up no space."
+      ],
+      "npc12": [
+        "Good morning. Are you looking for specific information on Archaeology?",
+        "The size of these bookshelves seems to contradict that statement. Although surely in them you will find the answer you are looking for. ",
+        ""
+      ]
+    },
+     "scene103": {
+      "player": [
+        "Yes. Some doubts have come up."
+      ],
+      "npc12": [
+        "Hello. Back with your investigations?",
+        "Surely in these books you will find the answer to those doubts. ",
+        ""
+      ]
+    },
+    "scene104": {
+      "player": [
+        "Yes. I need to expand my knowledge."
+      ],
+      "npc12": [
+        "How are you? \n Do you need to consult something again?.",
+        "Perfect. I notice you are very motivated. Immerse yourself in reading the books",
+        ""
+      ]
+    },           
+    "scene105": {
+      "player": [
+        "No. Not at all. Everything is quiet."
+      ],
+      "npc13": [
+        "Good morning \n Is there any problem in the Museum?.",
+        "Perfect. No big news around here either.",
+        ""
+      ]
+    },
+    "scene106": {
+      "player": [
+        "Good, good. The day is being quiet."
+      ],
+      "npc13": [
+        "Good morning \n How is everything going?.",
+        "Glad to hear it. May it continue that way.",
+        ""
+      ]
+    } 
+ }
+}

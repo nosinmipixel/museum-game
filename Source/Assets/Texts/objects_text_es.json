@@ -1,0 +1,206 @@
+{
+  "meta": { "version": 1, "lang": "es" },
+  "collection_items": {
+    "pal": [
+      {
+        "id": 1,
+        "name": "Bifaz. Cova Negra (Xàtiva)",
+        "period": "pal",
+        "description": "Bifaz sobre lasca de sílex melado de grano fino. En relación con su forma y proporciones, puede incluirse en las formas cordiformes alargadas con talón.\n\nYacimiento: Cova Negra (Xàtiva). Musteriense (300.000-40.000 a.p.)",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Pal.1",
+          "slot_object": "Array.Pal.1",
+          "icons": {
+            "shelved": "Icon.Box.Pal.1",
+            "exhibited": "Icon.Exhib.Pal.1",
+            "restored": "Icon.Rest.Pal.1"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qPAL1" },
+        "tags": ["pal", "lithic", "15741"]
+      },
+      {
+        "id": 2,
+        "name": "Azagaya monobiselada decorada. Cova del Parpalló (Gandía, Valencia).",
+        "period": "pal",
+        "description": "Azagaya monobiselada con base decorada. Estilo Le Placard. La industria de azagayas decoradas tipo Le Placard es característica de la transición entre Solutrense y Magdaleniense de yacimientos franceses. Su presencia en la Cova del Parpalló indica posibles procesos de difusión técnica o cultural.\n\nYacimiento: Cova del Parpalló (Gandia). Magdaleniense (17.000-16.000 a.p.)",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Pal.2",
+          "slot_object": "Array.Pal.2",
+          "icons": {
+            "shelved": "Icon.Box.Pal.2",
+            "exhibited": "Icon.Exhib.Pal.2",
+            "restored": "Icon.Rest.Pal.2"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qPAL2" },
+        "tags": ["pal", "", "43452"]
+      }
+    ],
+    "neo": [
+      {
+        "id": 1,
+        "name": "Cántaro con decoración impresa cardial. Cova de l'Or (Beniarrés, Alicante). Neolítico antiguo.",
+        "period": "neo",
+        "description": "Cántaro de cuerpo globular, cuello cilíndrico diferenciado y labio plano con dos asas de cinta simétricas situadas al inicio del cuello. Presenta decoración impresa cardial en todo el cuerpo excepto en la base, consistente en alternancia de anchas bandas verticales, de una banda horizontal rematada por triángulos unidos en el arranque del cuello y otra banda que sale del borde, formada por líneas verticales rematadas por impresiones de natis.\n\nCova de l'Or (Beniarrés, Alicante). Neolítico antiguo (5500-4800 a.C.).",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Neo.1",
+          "slot_object": "Array.Neo.1",
+          "icons": {
+            "shelved": "Icon.Box.Neo.1",
+            "exhibited": "Icon.Exhib.Neo.1",
+            "restored": "Icon.Rest.Neo.1"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qNEO1" },
+        "tags": ["neo", "4225"]
+      },
+      {
+        "id": 2,
+        "name": "Hacha de piedra pulida. Cova de la Sarsa (Bocairent, Valencia). Neolítico antiguo.",
+        "period": "neo",
+        "description": "Hacha de piedra pulida. Yacimiento.\n Cova de la Sarsa (Bocairent, Valencia). Neolítico antiguo (5500-4000 a.C.).",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Neo.2",
+          "slot_object": "Array.Neo.2",
+          "icons": {
+            "shelved": "Icon.Box.Neo.2",
+            "exhibited": "Icon.Exhib.Neo.2",
+            "restored": "Icon.Rest.Neo.2"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qNEO2" },
+        "tags": ["neo", "5094"]
+      }
+    ],
+    "bronze": [
+      {
+        "id": 1,
+        "name": "",
+        "period": "bronze",
+        "description": "Hacha plana de cobre de sección rectangular.\n\nYacimiento: La Lloma de Betxí (Paterna, Valencia). Edad del Bronce (1800-1400 a.C.)",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Bronze.1",
+          "slot_object": "Array.Bronze.1",
+          "icons": {
+            "shelved": "Icon.Box.Bronze.1",
+            "exhibited": "Icon.Exhib.Bronze.1",
+            "restored": "Icon.Rest.Bronze.1"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qBRZ1" },
+        "tags": ["bronze", "metal", "856"]
+      },
+      {
+        "id": 2,
+        "name": "Quesera. Lloma de Betxí (Paterna, Valencia). Edad del Bronce.",
+        "period": "bronze",
+        "description": "Quesera de cerámica, tipo C (Enguix, 1981), con forma troncocónica ligeramente acampanada y abierta por la parte superior e inferior. El borde superior es recto o reentrante y la base más abierta o exvasada. El cuerpo aparece totalmente perforado. Las perforaciones son irregulares, realizadas sobre la arcilla aún tierna, de fuera hacia dentro.\n\n Yacimiento: Lloma de Betxí (Paterna, Valencia).Edad del Bronce (1800-1300 a.C.).",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Bronze.2",
+          "slot_object": "Array.Bronze.2",
+          "icons": {
+            "shelved": "Icon.Box.Bronze.2",
+            "exhibited": "Icon.Exhib.Bronze.2",
+            "restored": "Icon.Rest.Bronze.2"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qBRZ2" },
+        "tags": ["bronze", "ceramics", "7622"]
+      }
+    ],
+    "iberian": [
+      {
+        "id": 1,
+        "name": "Enócoe ática. La Bastida de les Alcusses (Moixent, Valencia). Siglo IV a.C.",
+        "period": "iberian",
+        "description": "Jarra (enócoe) de barniz negro con boca trilobulada, asa vertical de altura superior a la boca, mitad inferior del cuerpo con acanaladuras y base plana con pie indicado.\n\nYacimiento: La Bastida de les Alcusses (Moixent, Valencia). Época ibérica. Siglo IV a.C.",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Iberian.1",
+          "slot_object": "Array.Iberian.1",
+          "icons": {
+            "shelved": "Icon.Box.Iberian.1",
+            "exhibited": "Icon.Exhib.Iberian.1",
+            "restored": "Icon.Rest.Iberian.1"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qIBE1" },
+        "tags": ["iberian", "ceramics", "855"]
+      },
+      {
+        "id": 2,
+        "name": "Kili. Unidad. Siglo I a.C.",
+        "period": "iberian",
+        "description": "Anverso: Cabeza masculina, diademada, con manto y fíbula anular, a derecha, marca palma.\nReverso: Jinete, con palma, a derecha y leyenda 'kili'.\n\nLugar de producción: Kili. Época ibérica (Siglo I a.C.)",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Iberian.2",
+          "slot_object": "Array.Iberian.2",
+          "icons": {
+            "shelved": "Icon.Box.Iberian.2",
+            "exhibited": "Icon.Exhib.Iberian.2",
+            "restored": "Icon.Rest.Iberian.2"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qIBE2" },
+        "tags": ["iberian", "coin", "22354"]
+      }
+    ],
+    "roman": [
+      {
+        "id": 1,
+        "name": "Copa de terra sigillata. Empúries (La Escala, Gerona).",
+        "period": "roman",
+        "description": "Crátera de terra sigillata sudgálica decorada con medallones con figura humana (Mercurio).\n\nYacimiento: Ampurias (L'Escala, Girona). Cultura romana (s. I a.C.)",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Roman.1",
+          "slot_object": "Array.Roman.1",
+          "icons": {
+            "shelved": "Icon.Box.Roman.1",
+            "exhibited": "Icon.Exhib.Roman.1",
+            "restored": "Icon.Rest.Roman.1"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qROM1" },
+        "tags": ["roman", "ceramics", "248"]
+      },
+      {
+        "id": 2,
+        "name": "Lucerna altoimperial. Ampurias (La Escala, Gerona).",
+        "period": "roman",
+        "description": "Lucerna altoimperial de pico triangular con volutas. Motivo decorativo con figura de león en relieve en el centro del disco. Pieza hecha a molde con pasta fina de color marrón oscura y engobe rojizo.\n\nYacimiento: Ampurias (L'Escala, Girona). Cultura romana (s. I a.C.- s-I d.C.)",
+        "default_state": { "restored": 2, "ubication": 0, "exhibition": 0 },
+        "ui": {
+          "card_object": "Object.Roman.2",
+          "slot_object": "Array.Roman.2",
+          "icons": {
+            "shelved": "Icon.Box.Roman.2",
+            "exhibited": "Icon.Exhib.Roman.2",
+            "restored": "Icon.Rest.Roman.2"
+          },
+          "info_text_object": "Text.Inv.Info.Item"
+        },
+        "quiz": { "id": "qROM2" },
+        "tags": ["roman", "metal", "4060"]
+      }
+    ]
+  }
+}
+

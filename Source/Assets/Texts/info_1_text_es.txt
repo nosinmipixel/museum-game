@@ -1,0 +1,7 @@
+
+Selecciona el idioma / Select the language. \nPulsa la tecla '1' para Español. \nPress the '2' key for English
+Tecla 'W' para avanzar y tecla 'S' para retroceder. \nTecla 'A' para girar hacia la izquierda. \nTecla 'D' para girar hacia la derecha.\n También puedes usar las teclas de dirección \n\nTecla 'P' para pausar el juego y abrir el menú principal.\nTecla 'I' para abrir y cerrar el Inventario de objetos \nHaz clic sobre objetos y personajes para interactuar con ellos.\n\nPulsa el botón '>' o la tecla 'Espacio' para continuar.
+Eres el conservador 'novato' de un gran museo de Arqueología. \nAcabas de empezar y quieres demostrar a todo el mundo tu talento. \nTu labor diaria preservará el legado del museo para las futuras generaciones.
+Existen toda una serie 'Tareas' que debes hacer para aumentar tu experiencia: \n\n1. Organizar la colección del museo.\n 2. Evaluar la condición material de los objetos. \n 3. Vigilar las condiciones ambientales en el edificio, así como enfrentar la amenaza de plagas. \n 4. Atender a investigadores, estudiantes y público general. \n\nEl cumplimiento de estas tareas te permitirá alcanzar la 'Dirección' del museo. Sin embargo, pueden surgir situaciones que compliquen tu trabajo diario. \n\n
+Ahora pulsa el botón '>' o la tecla 'Espacio' para empezar el juego.
+¿Estás seguro? \nEsta acción borrará todo tu progreso y reiniciará el juego.

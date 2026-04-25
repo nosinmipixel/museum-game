@@ -1,0 +1,713 @@
+{
+  "names": {
+    "none":"",
+    "player": "Conservador",
+    "npc1": "Anciano",
+    "npc2": "Investigadora universitaria",
+    "npc3": "Miembro de Centro Excursionista",
+    "npc4": "Aficionada numismática",
+    "npc5": "Niña", 
+    "npc6": "Cronista local",
+    "npc7": "Periodista",
+    "npc8": "Coleccionista privado",
+    "npc9": "Alumna de instituto",
+    "npc10": "Turista extranjera",
+    "npc11": "Restauradora",
+    "npc12": "Bibliotecaria", 
+    "npc13": "Vigilante de Seguridad",
+    "npc14": "Visitante"
+  },
+  "dialogs": {
+    "scene0": {
+      "none": [
+        ""
+      ]
+    },
+    "scene1": {
+      "player": [
+        "",
+        "Ummm. ¡Vaya! ¡Qué interesante! \n¿Podría ver la pieza?"
+      ],
+      "npc1": [
+        "",
+        "{npc1_name}: Buenos días, he venido a depositar una pieza que ha estado en mi familia durante años.",
+        "{npc1_name}: ¡Claro! Aquí la tiene.",
+        "{npc1_name}: Por cierto, ¿podría decirme qué objeto es?\nParece usted muy joven y no tengo claro que pueda hacerse cargo de algo tan valioso.",
+        "{npc1_name}: ¡Jovenzuelo!\nNo parece usted muy avispado.",
+        "{npc1_name}: Creo que seguiré conservando esta joya en mi familia.\nUna visita a la Biblioteca no le vendría mal.",
+        "{npc1_name}: ¡Vaya! Me sorprenden sus conocimientos.\nCreo que puedo confiar en usted y depositar este magnífico objeto en su museo."
+      ]
+    },
+    "scene2": {
+      "player": [
+        "",
+        "No hay problema.\nAhora sin duda podré identificarlo."
+      ],
+      "npc1": [
+        "",
+        "{npc1_name}: Joven, he vuelto aquí de nuevo.\nQuería volver a darle la oportunidad para depositar este objeto en su museo.",
+        "{npc1_name}: Ya veremos\n¿Sabe ya qué objeto es?",
+        "{npc1_name}: ¡No veo una mejora en su conocimiento desde la última vez!\nSeguiré conservando esta joya en mi familia.",
+        "{npc1_name}: ¡Qué gran avance!\n¡Valoro su esfuerzo!\nCreo que, sin duda, puedo depositar este magnífico objeto en su museo."
+      ]
+    },
+    "scene3": {
+      "player": [
+        "",
+        "Es una gran responsabilidad.\nDebo identificarlo."
+      ],
+      "npc1": [
+        "",
+        "{npc1_name}: Quería volver a darle una última oportunidad para depositar aquí el objeto que poseo.",
+        "{npc1_name}: Eso espero\n¿Sabe ya qué objeto es?",
+        "{npc1_name}: ¡En ningún caso usted reúne las condiciones para custodiar este objeto!\nEste objeto permanecerá definitivamente en mi familia.",
+        "{npc1_name}: ¡Qué gran avance!\n¡Valoro su esfuerzo!\nCreo que, sin duda, puedo depositar este magnífico objeto en su museo."
+      ]
+    },
+    "scene4": {
+      "player": [
+        "",
+        "Es un período fascinante, el más largo de la existencia humana."
+      ],
+      "npc2": [
+        "",
+        "{npc2_name}: Hola, estoy aquí porque necesito información para realizar un trabajo de investigación sobre industria lítica del Paleolítico.",
+        "{npc2_name}: Sí. Por eso elegí esta especialidad, aunque todavía me cuesta datar algunos materiales.",
+        "{npc2_name}: ¿Podría decirme a qué periodo de la Prehistoria pertenece este bifaz?",
+        "{npc2_name}: ¡Vaya! Pensaba que usted, como conservador, me ayudaría a fechar correctamente esta pieza.",
+        "{npc2_name}: Aunque seguramente encontrará en la Biblioteca la información necesaria para documentar este tipo de objetos.",
+        "{npc2_name}: Es una suerte contar con la ayuda de verdaderos especialistas como usted.\nEstoy realmente agradecida."
+      ]
+    },
+    "scene5": {
+      "player": [
+        "",
+        "Estaré encantado de ayudarle en lo que necesite."
+      ],
+      "npc2": [
+        "",
+        "{npc2_name}: He vuelto al museo para seguir con el estudio de materiales.",
+        "{npc2_name}: Por cierto, ¿ha averiguado ya de qué periodo era el bifaz que vimos anteriormente?",
+        "{npc2_name}: En fin. Su fuerte no es la datación de la industria lítica.",
+        "{npc2_name}: Perfecto. Veo que ha hecho usted los deberes."
+      ]
+    },
+    "scene6": {
+      "player": [
+        "",
+        "Creo que estoy avanzando con mis conocimientos."
+      ],
+      "npc2": [
+        "",
+        "{npc2_name}: Yo, por mi parte, continúo con mi trabajo de investigación.\n¿Ha avanzado usted en la datación de industria lítica?",
+        "{npc2_name}: ¿Sabría decirme a qué periodo de la Prehistoria pertenece este bifaz?",
+        "{npc2_name}: Vaya. Ya no volveré a insistirle más con esta cuestión.\nNo quisiera ponerle en evidencia frente a otros colegas.",
+        "{npc2_name}: Perfecto. Veo que ha hecho usted los deberes."
+      ]
+    },
+    "scene7": {
+      "player": [
+        "",
+        "Me parece una iniciativa magnífica.\nLa divulgación de la Prehistoria es fundamental."
+      ],
+      "npc3": [
+        "",
+        "{npc3_name}: ¡Buenos días! Pertenezco al Centro Excursionista Local.\nEstamos preparando una pequeña exposición sobre tecnología en la Prehistoria.",
+        "{npc3_name}: ¡Claro! Por eso estamos aquí.\nQueremos ser lo más fieles posible y tenemos dudas sobre algunos aspectos técnicos de ese período.",
+        "{npc3_name}: ¿Podría indicarnos cuál de estos materiales no se utilizaba en la Prehistoria?",
+        "{npc3_name}: Vaya, me temo que esa respuesta no coincide con otras consultas que hemos realizado.",
+        "{npc3_name}: Quizás salgamos de dudas si consulta los fondos de su biblioteca.\nEn cualquier caso volveré para ver si puede arrojar luz sobre este asunto.",
+        "{npc3_name}: ¡Perfecto! Eso confirma lo que habíamos leído.\nAhora nuestra exposición ganará mucho en rigor.\nSe lo agradezco mucho."
+      ]
+    },
+    "scene8": {
+      "player": [
+        "",
+        "Sí, he consultado algunas publicaciones sobre tecnología en la Prehistoria."
+      ],
+      "npc3": [
+        "",
+        "{npc3_name}: He vuelto, espero que haya podido averiguar algo sobre el asunto del que hablamos.",
+        "{npc3_name}: Me alegra oírlo. Entonces, ¿ha podido confirmar cuál de esos materiales no se utilizaba en la Prehistoria?",
+        "{npc3_name}: Lamento decirle que no parece ser la respuesta correcta.\nVolveré para dilucidar esta cuestión de una vez por todas.",
+        "{npc3_name}: ¡Así se hace! Veo que se ha puesto las pilas.\nEsta confirmación nos será de gran ayuda."
+      ]
+    },
+    "scene9": {
+      "player": [
+        "",
+        "Ya lo creo. Esta vez lo tengo claro."
+      ],
+      "npc3": [
+        "",
+        "{npc3_name}: Última visita para resolver la duda que nos atañe.\n¿Trae la lección aprendida?",
+        "{npc3_name}: Me alegra oírlo.\n¿Ha podido confirmar entonces cuál de esos materiales no se utilizaba en la Prehistoria?",
+        "{npc3_name}: Lo siento pero creo que, incluso nosotros, tenemos más claros algunos conceptos básicos.\nEn cualquier caso, ya no le robaremos más tiempo.",
+        "{npc3_name}: ¡Por fin! Menos mal.\nAhora sí podemos asegurar una mayor certeza en el contenido de nuestra exposición."
+      ]
+    },
+    "scene10": {
+      "player": [
+        "",
+        "Es un campo apasionante.\nLas monedas ibéricas están llenas de pequeños detalles."
+      ],
+      "npc4": [
+        "",
+        "{npc4_name}: Buenas tardes. Soy coleccionista y me interesa especialmente la numismática ibérica.",
+        "{npc4_name}: Sí, la verdad es que sí.\nEstoy inventariando mi colección y la identificación de los reversos son clave para una correcta catalogación.",
+        "{npc4_name}: Por cierto, ¿podría decirme cuál es el diseño más habitual en el reverso de las monedas ibéricas como esta unidad de Kelin?",
+        "{npc4_name}: Hmm, no estoy segura de que sea correcto.\nConsultando muchos catálogos, he llegado a otra conclusión.",
+        "{npc4_name}: Seguro que le vendría bien revisar alguna monografía especializada en acuñaciones ibéricas.\nVolveré más adelante.",
+        "{npc4_name}: ¡Exactamente! Un jinete con lanza.\nEs un placer hablar con un profesional que domina este tema."
+      ]
+    },
+    "scene11": {
+      "player": [
+        "",
+        "He repasado algunos de nuestros fondos y creo estar en condiciones de responder a ella."
+      ],
+      "npc4": [
+        "",
+        "{npc4_name}: He vuelto para seguir estudiando las piezas de su exposición.\n¿Ha podido profundizar en mi pregunta?",
+        "{npc4_name}: ¿Y bien? ¿Cuál es el reverso más típico de las monedas ibéricas?",
+        "{npc4_name}: Vaya, me temo que su respuesta no coincide con mis indagaciones.\nSigo confiando más en mis catálogos.",
+        "{npc4_name}: ¡Bravo! Ahora está en lo cierto.\nMe alegra que haya podido confirmarlo."
+      ]
+    },
+    "scene12": {
+      "player": [
+        "",
+        "Esta vez tengo la total certeza."
+      ],
+      "npc4": [
+        "",
+        "{npc4_name}: Es la última vez que vengo a consultarle.\nEspero que ahora lo tenga claro.",
+        "{npc4_name}: ¿Cuál es el diseño más habitual en el reverso de las monedas ibéricas?",
+        "{npc4_name}: Definitivamente, tendrá que especializarse más en el campo de la numismática.\nYo seguiré con mis libros.\nBuenos días.",
+        "{npc4_name}: ¡Magnífico! Un jinete.\nYa puede considerarse un experto.\nGracias por su ayuda."
+      ]
+    },
+    "scene13": {
+      "player": [
+        "",
+        "¡Hola! Qué bien, me encanta que los más pequeños se interesen por la Prehistoria."
+      ],
+      "npc5": [
+        "",
+        "{npc5_name}: Hola, señor conservador.\nEstamos haciendo un trabajo en el cole sobre el Neolítico.",
+        "{npc5_name}: Sí, y mi profe nos ha dicho que miremos bien las piedras.\nEsta piedra es muy lisa, no como otras que parecen más ásperas.",
+        "{npc5_name}: ¿Sabe usted qué técnica para el trabajo de la piedra surge durante el Neolítico y la deja así de suave?",
+        "{npc5_name}: ¡Anda! Pues creo que mi profe nos dijo otra cosa diferente.",
+        "{npc5_name}: A lo mejor si mira en esos libros tan gordos que tiene en la Biblioteca, lo encuentra.",
+        "{npc5_name}: ¡Sí, sí, el pulimentado! ¡Lo sabía!\n¡Muchas gracias!\nLe contaré a la profe lo mucho que saben en este museo."
+      ]
+    },
+    "scene14": {
+      "player": [
+        "",
+        "Sí, he estado investigando un poco para ti."
+      ],
+      "npc5": [
+        "",
+        "{npc5_name}: He vuelto con mi cuaderno.\n¿Ha encontrado ya más información sobre esas piedras tan lisas?",
+        "{npc5_name}: ¿Y? ¿Cómo se llama esa técnica del trabajo de la piedra que surgió durante el Neolítico?",
+        "{npc5_name}: Uy, no. Creo que se ha confundido.\nNo me suena que mi profe hablara nada sobre eso.",
+        "{npc5_name}: ¡Lo ha conseguido! ¡Genial!\nAhora sí que mi profe me pondrá un sobresaliente."
+      ]
+    },
+    "scene15": {
+      "player": [
+        "",
+        "¡Cómo no me voy a acordar!"
+      ],
+      "npc5": [
+        "",
+        "{npc5_name}: Es la última vez que puedo venir.\nSe me acaba el tiempo para hacer el trabajo del cole.",
+        "{npc5_name}: ¿Se acuerda del nombre de esa técnica del trabajo de la piedra que surge durante el Neolítico?",
+        "{npc5_name}: Vaya, parece que es muy difícil.\nNo se preocupe, yo mismo se lo explicaré algún día cuando lo aprenda mejor.\n¡Adiós!",
+        "{npc5_name}: ¡Bien! ¡Pulimentado! Eso es.\nAhora sí que parece un auténtico conservador.\n¡Gracias!"
+      ]
+    },
+    "scene16": {
+      "player": [
+        "",
+        "Es un placer.\nEl estudio de la historia local es realmente importante como base para comprender fenómenos más generales."
+      ],
+      "npc6": [
+        "",
+        "{npc6_name}: Buenos días. Soy el cronista oficial de un pueblo cercano y estoy documentando nuestro pasado más remoto.",
+        "{npc6_name}: Así es.\nY me gustaría ahondar en algunos aspectos de la vida cotidiana de nuestros antepasados neolíticos, 'hasta sus entrañas', como se suele decir.",
+        "{npc6_name}: En concreto, para ser rigurosos, ¿podría decirme cuál de estos elementos no se utilizaba en la decoración de la cerámica neolítica?",
+        "{npc6_name}: Hmm, me temo que sus fuentes no son del todo precisas.\nEso no concuerda con lo que he podido leer.",
+        "{npc6_name}: Le aconsejo que consulte su Biblioteca.\nIncluso en la nuestra tenemos algunas publicaciones muy interesantes sobre el particular.",
+        "{npc6_name}: ¡Exacto! Me complace ver que está bien documentado.\nSerá un placer volver para compartir conocimientos."
+      ]
+    },
+    "scene17": {
+      "player": [
+        "",
+        "Sí, he podido consultar algunos documentos."
+      ],
+      "npc6": [
+        "",
+        "{npc6_name}: He regresado para cotejar más datos.\n¿Ha tenido tiempo de revisar mi pregunta?",
+        "{npc6_name}: ¿Y? ¿Ha dado con el elemento anacrónico?\n¿Cuál de estos utensilios no se utilizaba en la decoración de la cerámica neolítica?",
+        "{npc6_name}: Lamento decirle que persiste en el error.\nComo cronista, debo ser inflexible con este tipo de cuestiones.",
+        "{npc6_name}: ¡Correcto! Veo que ha aprovechado el tiempo.\nTome nota para futuras consultas."
+      ]
+    },
+    "scene18": {
+      "player": [
+        "",
+        "Tengo la confianza de que así sea."
+      ],
+      "npc6": [
+        "",
+        "{npc6_name}: Una última consulta para salir de dudas.\nEspero que la respuesta sea ahora la definitiva.",
+        "{npc6_name}: ¿Ha dado ya con el elemento anacrónico?\n¿Cuál de estos utensilios no se utilizaba en la decoración de la cerámica neolítica?",
+        "{npc6_name}: Definitivamente, comunicaré a otros colegas que este museo no es una fuente confiable para realizar determinadas consultas técnicas.\nQue tenga un buen día.",
+        "{npc6_name}: ¡Por fin! La espátula de cobre, efectivamente.\nHa sido capaz de sobreponerse a mis inquisitivas preguntas.\nGracias."
+      ]
+    },
+    "scene19": {
+      "player": [
+        "",
+        "¡Ah, bienvenido! La prensa especializada siempre es una gran aliada."
+      ],
+      "npc7": [
+        "",
+        "{npc7_name}: Buenos días, soy un periodista de la revista 'Historia Viva'.\nEstoy preparando un reportaje sobre avances tecnológicos en la antigüedad.",
+        "{npc7_name}: Gracias.\nPara el artículo, es crucial destacar los saltos tecnológicos.\nEste hacha de cobre marca un antes y un después, pues el bronce supuso una auténtica revolución.",
+        "{npc7_name}: Para contextualizar, ¿sabría decirme qué técnica aparece en la Edad del Bronce?",
+        "{npc7_name}: Mmm, ese dato no coincide con la información que tenía.\nTendré que contrastarla con otras fuentes para no publicar algún error.",
+        "{npc7_name}: Quizá tendré que buscar a alguien que controle más sobre metalurgia antigua.\nLe sugiero que usted también se ponga al día.",
+        "{npc7_name}: ¡La fundición! Exacto.\nYa veo el titular.\nPerfecto para mi reportaje.\nTendrá una mención especial."
+      ]
+    },
+    "scene20": {
+      "player": [
+        "",
+        "Creo que ahora lo tengo más claro."
+      ],
+      "npc7": [
+        "",
+        "{npc7_name}: He vuelto para ampliar información sobre otros temas,\npero ya que estoy aquí, me gustaría saber si ha averiguado la cuestión del otro día.",
+        "{npc7_name}: ¿Cuál es la técnica que aparece en la Edad del Bronce?",
+        "{npc7_name}: Ummm, seguimos sin tener claro el dato\ny no puedo arriesgarme a publicar información incorrecta.",
+        "{npc7_name}: ¡Eso es! ¡Fundición!\n¡Ya puedo confirmar este dato!"
+      ]
+    },
+    "scene21": {
+      "player": [
+        "",
+        "Esta vez estoy seguro."
+      ],
+      "npc7": [
+        "",
+        "{npc7_name}: Una última oportunidad para confirmar el dato clave. ¿Podrá usted finalmente ayudarme?",
+        "{npc7_name}: ¿Cuál es la técnica metalúrgica que surge en la Edad del Bronce?",
+        "{npc7_name}: Definitivamente, buscaré a otro especialista.\nGracias de todos modos.",
+        "{npc7_name}: ¡Correcto! La fundición.\nMe alegra que al final haya podido aclararlo.\nSerá de gran ayuda."
+      ]
+    },
+    "scene22": {
+      "player": [
+        "",
+        "Existen colecciones particulares muy interesantes.\nMuchas de sus piezas pueden tener gran valor científico,\n aunque la mayoría hayan perdido su contexto arqueológico."
+      ],
+      "npc8": [
+        "",
+        "{npc8_name}: Buenas tardes.\nPoseo una colección de cerámica antigua bastante respetable,\n y a veces acudo a museos como el suyo para... contrastar piezas.",
+        "{npc8_name}: Bueno.\nYo me considero un entendido.\nPor ejemplo, tengo una pieza que, según mi criterio, es una olla de la Edad del Bronce.\nPero un rival... digo, otro coleccionista, insiste en que no puede ser de esa época.",
+        "{npc8_name}: Para zanjar la cuestión, dígame: ¿Cuál de estas formas cerámicas no es propia de la Edad del Bronce?",
+        "{npc8_name}: ¡Ja! Justo lo que pensaba.\nParece que su conocimiento de las formas cerámicas no es muy profundo.",
+        "{npc8_name}: Debería visitar alguna colección privada de prestigio.\nLlegamos hasta donde no alcanzan estas colecciones públicas.",
+        "{npc8_name}: ¡Vaya! Me sorprende gratamente.\nEfectivamente, el cálatos es muy posterior.\nQuizás le sorprenda saber que también tengo alguno de ellos."
+      ]
+    },
+    "scene23": {
+      "player": [
+        "",
+        "Mi respuesta será más acertada esta vez, estoy seguro."
+      ],
+      "npc8": [
+        "",
+        "{npc8_name}: He regresado.\nHe estado pensando en nuestra anterior conversación y quería darle una segunda oportunidad.",
+        "{npc8_name}: Veamos.\n¿Cuál de estas formas cerámicas no es propia de la Edad del Bronce?",
+        "{npc8_name}: Increíble.\nNo sé si me toma el pelo.\nEl personal de este museo no está a la altura de mi colección.",
+        "{npc8_name}: Umm, veo que ha aprendido la lección.\nBien por usted.\nPor fin demuestra algo de buen criterio."
+      ]
+    },
+    "scene24": {
+      "player": [
+        "",
+        "Definitivamente tengo la respuesta correcta."
+      ],
+      "npc8": [
+        "",
+        "{npc8_name}: Última visita.\nEspero que 'a la tercera sea la vencida'.",
+        "{npc8_name}: Veremos.\n¿Cuál de estas formas cerámicas no es propia de la Edad del Bronce?",
+        "{npc8_name}: No.\nDefinitivamente, no sé cómo hacen las cosas aquí.\nPrefiero confiar en mi propio criterio.\nBuenos días y hasta nunca.",
+        "{npc8_name}: Correcto.\nEl cálatos.\nMe alegra que al final haya llegado a la conclusión adecuada."
+      ]
+    },
+    "scene25": {
+      "player": [
+        "",
+        "¡Hola! Claro, preguntad lo que necesitéis."
+      ],
+      "npc9": [
+        "",
+        "{npc9_name}: Hola, buenas.\nDisculpe, somos de 1º de la ESO y tenemos que hacer un trabajo sobre Roma.",
+        "{npc9_name}: Genial, gracias.\nEsta vasija nos llama mucho la atención porque tiene un brillo y un color super guay",
+        "{npc9_name}: ¿Podría decirnos con qué nombre es conocido este tipo de cerámica tan bonita?",
+        "{npc9_name}: Uy, me ha parecido ver que en nuestro libro de texto aparece un nombre distinto.",
+        "{npc9_name}: Tenemos que volver por aquí, así que podría buscarlo en alguno de esos grandes catálogos que tienen.\nO en internet.",
+        "{npc9_name}: ¡Terra sigillata! ¡Eso, eso!\n¡Muchas gracias!\nLa profesora nos pondrá un diez seguro."
+      ]
+    },
+    "scene26": {
+      "player": [
+        "",
+        "¡Claro que me acuerdo! Sí, he consultado en catálogos de cerámica romana."
+      ],
+      "npc9": [
+        "",
+        "{npc9_name}: Hola, hemos vuelto.\n¿Se acuerda de nosotras?\n¿Ha mirado lo del nombre de la cerámica?",
+        "{npc9_name}: ¿Sí? ¿Con qué nombre es conocido este tipo de cerámica?",
+        "{npc9_name}: Uf, me parece que sigue sin ser eso.\nNo sé si preguntarle al otro profesor de historia del 'insti'.",
+        "{npc9_name}: ¡Sí! ¡Lo sabía!\nYa lo ha recordado.\nGracias por todo."
+      ]
+    },
+    "scene27": {
+      "player": [
+        "",
+        "Esta vez tendréis el nombre correcto."
+      ],
+      "npc9": [
+        "",
+        "{npc9_name}: Hola de nuevo.\nEs la última vez que podemos pasar por aquí.",
+        "{npc9_name}: ¿Con qué nombre es conocido este tipo de cerámica?",
+        "{npc9_name}: Bueno, no pasa nada.\nTodos nos equivocamos.\nGracias igualmente.\n¡Adiós!",
+        "{npc9_name}: ¡Terra sigillata! ¡Confirmado y apuntado!\n¡Muchas gracias por su ayuda!"
+      ]
+    },
+    "scene28": {
+      "player": [
+        "",
+        "¡Gracias! Me alegra que le guste.\n¿Necesita ayuda con algo?"
+      ],
+      "npc10": [
+        "",
+        "{npc10_name}: ¡Hola! Disculpe, ¡este museo es maravilloso!\nY me fascina especialmente la época romana.",
+        "{npc10_name}: ¡Oh, sí! Este objeto parece tan... avanzado para su tiempo.\nCreo saber lo qué es y me gustaría mencionarlo en mi blog de viajes.",
+        "{npc10_name}: En esta guía dice que se trata de una estátera romana.\n¿Pero sabe usted para qué se utilizaban estos objetos?",
+        "{npc10_name}: Oh, pensaba que era para otra cosa.\nHe visto un vídeo en Youtube que lo relacionaba con algo diferente.",
+        "{npc10_name}: Quizás pueda consultarlo en su base de datos.\nEstoy segura de que encontrará la información correcta.\nYa volveré más adelante por aquí.",
+        "{npc10_name}: ¡Sí! ¡Para pesar objetos! Eso es lo que pensaba.\n¡Perfecto!\nAhora tengo total seguridad y podré hablar de ella sin problemas.\n¡Muchas gracias!"
+      ]
+    },
+    "scene29": {
+      "player": [
+        "",
+        "He estado investigando un poco, sí."
+      ],
+      "npc10": [
+        "",
+        "{npc10_name}: ¡Hola de nuevo! He vuelto para ver esa preciosa estátera.\nEs una pieza cautivadora.\n¿Ha averiguado más sobre su uso?",
+        "{npc10_name}: ¡Genial! Entonces, ¿para qué servía una estátera?",
+        "{npc10_name}: Mmm, no estoy segura de que sea correcto.\nYo también he consultado información y tengo la impresión de que anda algo desencaminado.",
+        "{npc10_name}: ¡Oh, sí! Creo que por fin estamos de acuerdo.\nEra para pesar.\nGracias por comprobarlo y poder confirmarlo."
+      ]
+    },
+    "scene30": {
+      "player": [
+        "",
+        "Ahora no me cabe ninguna duda."
+      ],
+      "npc10": [
+        "",
+        "{npc10_name}: ¡Última visita! Debo volver a mi país, aunque espero que tenga la respuesta definitiva para los lectores de mi blog.",
+        "{npc10_name}: ¡Genial! Entonces, ¿para qué servía una estátera?",
+        "{npc10_name}: Diría que su información no concuerda con la mía.\nTengo muchas dudas y no sé si finalmente escribiré sobre este objeto en mi blog.\nGracias de todos modos.",
+        "{npc10_name}: ¡Excelente! 'Se usaba para pesar objetos'.\n¡Perfecto!\nA mis seguidores les encantará este detalle.\n¡Ha sido de gran ayuda!"
+      ]
+    },
+    "scene31": {
+      "player": [
+        "",
+        "Hola. Me gustaría que analizaras este objeto para comprobar si necesita alguna intervención."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: ¡Vaya!\n¡Tú por aquí!",
+        "{npc11_name}: ¡Claro! Lo haré encantada...\nPero antes tendrás que resolver una pequeña pregunta.",
+        "{npc11_name}: ¿Cuál es el objetivo principal de la conservación preventiva?",
+        "{npc11_name}: ¡Oh, vaya!\nMe parece que andas algo perdido.",
+        "{npc11_name}: Te haré sufrir un poco.\nYa te avisaré para que vuelvas a pasar por aquí.",
+        "{npc11_name}: ¡Correcto! La conservación preventiva no se centra en intervenir directamente en el objeto, sino en protegerlo controlando su entorno."
+      ]
+    },     
+    "scene32": {
+      "player": [
+        "",
+        "He estado investigando un poco, sí."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: ¡Hola de nuevo!, ¿Has hecho tus deberes?",
+        "{npc11_name}: ¡Genial! Entonces, ¿Cuál es el objetivo principal de la conservación preventiva?",
+        "{npc11_name}: Ummm, esta pieza tendrá que esperar un poco más.\nTe avisaré de nuevo.",
+        "{npc11_name}: ¡Correcto! La conservación preventiva no se centra en intervenir directamente en el objeto, sino en protegerlo controlando su entorno."
+      ] 
+    },
+    "scene33": {
+      "player": [
+        "",
+        "Sin duda. Definitivamente tengo la respuesta correcta."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: ¡Otra vez por aquí!, ¿Podrás contestar correctamente?",
+        "{npc11_name}: ¡Perfecto! Dime, ¿Cuál es el objetivo principal de la conservación preventiva?",
+        "{npc11_name}: En fin, no me queda otra que aceptar la pieza para su análisis.\nPero tus conocimientos sobre conservación no van a aumentar.",
+        "{npc11_name}: ¡Correcto! La conservación preventiva no se centra en intervenir directamente en el objeto, sino en protegerlo controlando su entorno."
+      ]
+    },
+    "scene34": {
+      "player": [
+        "",
+        "Pues sí. Vuelvo con otro objeto para examinar su estado de conservación."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: ¡Hola!\n¡Supongo que vuelves a necesitar a tu savalvidas particular!",
+        "{npc11_name}: Bueno, ya sabes...\nAntes tienes que contestar una pequeña pregunta.",
+        "{npc11_name}: ¿Cuál de estos factores es uno de los más perjudiciales para la mayoría de los objetos arqueológicos?",
+        "{npc11_name}: Ummm.\nVeo que flojeas en la determinación de los factores ambientales.",
+        "{npc11_name}: Creo que tendrás que esperar.\nTe daré tiempo para aumentes tus conocimientos.",
+        "{npc11_name}: ¡Correcto! La luz, en especial la UV, puede causar decoloración, fragilidad y envejecimiento en materiales orgánicos como madera, textil y papel."
+      ]
+    },     
+    "scene35": {
+      "player": [
+        "",
+        "Sí. He consultado algún manual de conservación preventiva."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: ¿Y bien?, ¿Has indagado sobre la influencia del medio ambiente en nuestras colecciones?",
+        "{npc11_name}: ¡Genial! Entonces, ¿Cuál de estos factores es uno de los más perjudiciales para la mayoría de los objetos arqueológicos?",
+        "{npc11_name}: Ummm, esta pieza tendrá que esperar un poco más.\nTe llamaré más tarde a ver si lo tienes más claro.",
+        "{npc11_name}: ¡Correcto! La luz, en especial la UV, puede causar decoloración, fragilidad y envejecimiento en materiales orgánicos como madera, textil y papel."
+      ] 
+    },
+    "scene36": {
+      "player": [
+        "",
+        "Ya lo creo. La duda ofende."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: ¡Otra vez por aquí!,\n ¿Podrás por fin contestar a mi pregunta?",
+        "{npc11_name}: ¡Perfecto! Dime, ¿Cuál de estos factores es uno de los más perjudiciales para la mayoría de los objetos arqueológicos?",
+        "{npc11_name}: ¡Ay! Tengo que aceptar la pieza para su análisis.\nPero sigues sin aumentar tus conocimientos sobre conservación preventiva.",
+        "{npc11_name}: ¡Correcto! La luz, en especial la UV, puede causar decoloración, fragilidad y envejecimiento en materiales orgánicos como madera, textil y papel."
+      ] 
+    },  
+    "scene37": {
+      "player": [
+        "",
+        "Ya sabes que eres mi inspiración. Aquí traigo otro objeto para que compruebes su estado de conservación."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: ¡Hola!\n¿Ya echabas en falta mi sabiduria y consejo?",
+        "{npc11_name}: Bueno, creo que ya sabes cómo va esto...\nAntes tendrás que responderme a una cuestión.",
+        "{npc11_name}: ¿Por qué es importante la 'reversibilidad' de materiales y técnicas en restauración?",
+        "{npc11_name}: Me parece que todavía tienes lagunas en las técnicas de restauración.",
+        "{npc11_name}: Te haré sufrir un poco.\nTe doy algo de tiempo para resolver tus dudas.",
+        "{npc11_name}: ¡Correcto! La reversibilidad permite restablecer el objeto original y facilitar, así, la aplicación de mejores técnicas en un futuro."
+      ]
+    },     
+    "scene38": {
+      "player": [
+        "",
+        "Bueno. He estado mirando algunas publicaciones."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: Bueno, ¿Has consultado algo sobre las técnicas de restauración?",
+        "{npc11_name}: Entonces te será fácil responder ¿Por qué es importante la 'reversibilidad' de materiales y técnicas en restauración?",
+        "{npc11_name}: Ummm, esta pieza tendrá que esperar un poco más.\n Estate pendiente del teléfono y ya te avisaré.",
+        "{npc11_name}: ¡Correcto! La reversibilidad permite restablecer el objeto original y facilitar, así, la aplicación de mejores técnicas en un futuro."
+      ] 
+    },
+    "scene39": {
+      "player": [
+        "",
+        "Estoy preparado. Puedes preguntar."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: ¡Otra vez por aquí!,\n ¿Podrás finalmente responder a mi pregunta?",
+        "{npc11_name}: ¡Allá vamos! ¿Por qué es importante la 'reversibilidad' de materiales y técnicas en restauración?",
+        "{npc11_name}: Ay, Debo analizar la pieza.\n Pero me preocupa que no puedas aumentar tus conocimientos sobre restauración.",
+        "{npc11_name}: ¡Correcto! La reversibilidad permite restablecer el objeto original y facilitar, así, la aplicación de mejores técnicas en un futuro."
+      ] 
+    },  
+    "scene40": {
+      "player": [
+        "",
+        "No puedo vivir sin ti. Este es otro objeto que necesita de tu sabiduría."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: ¡Hola!\n¿Has venido a ver a tu restauradora favorita?",
+        "{npc11_name}: Es posible.\n Pero ya sabes que tienes que contestar una preguntita.",
+        "{npc11_name}: ¿Por qué es importante el control de la humedad relativa en los almacenes de un museo?",
+        "{npc11_name}: Me parece que tendrás que investigar algo sobre las condiciones ambientales de los museos.",
+        "{npc11_name}: Ya sabes. Ya te llamaré cuando crea que sabes algo más sobre esto.",
+        "{npc11_name}: ¡Correcto! La humedad elevada degrada metales y maderas. Además provoca el crecimiento de microorganismos y otros daños irreversibles en los materiales arqueológicos."
+      ]
+    },     
+    "scene41": {
+      "player": [
+        "",
+        "Pues sí. He consultado algunos manuales sobre conservación."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: ¿Y bien?, ¿Has consultado algo sobre las condiciones ambientales de los museos?",
+        "{npc11_name}: Entonces te será fácil responder ¿Por qué es importante el control de la humedad relativa en los almacenes de un museo?",
+        "{npc11_name}: Ummm, esta pieza tendrá que esperar un poco más.\n Ya te avisaré más adelante.",
+        "{npc11_name}: ¡Correcto! La humedad elevada degrada metales y maderas. Además provoca el crecimiento de microorganismos y otros daños irreversibles en los materiales arqueológicos."
+      ] 
+    },
+    "scene42": {
+      "player": [
+        "",
+        "Yo diría que sí. ¡Dispara!"
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: ¡Otra vez por aquí!,\n ¿Podrás finalmente responder a mi pregunta?",
+        "{npc11_name}: ¡Allá voy! ¿Por qué es importante el control de la humedad relativa en los almacenes de un museo?",
+        "{npc11_name}: En fin, tengo que analizar la pieza.\n Pero este fallo te impide aumentar tus conocimientos sobre restauración.",
+        "{npc11_name}: ¡Correcto! La humedad elevada degrada metales y maderas. Además provoca el crecimiento de microorganismos y otros daños irreversibles en los materiales arqueológicos."
+      ] 
+    },  
+    "scene43": {
+      "player": [
+        "",
+        "Ya lo creo. Aquí traigo otro objeto que necesita de tus conocimientos."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: ¡Hola!\n Parece que no puedes vivir sin mi. Jajaja.",
+        "{npc11_name}: Seguramente.\n Pero ya sabes que tienes que pasar por la pregunta de rigor.",
+        "{npc11_name}: ¿Cuál es el objetivo de almacenar determinados objetos en cajas de cartón libre de ácidos?",
+        "{npc11_name}: Me parece que tendrás que investigar algo sobre los materiales de almacenamiento.",
+        "{npc11_name}: Te daré tiempo para que indagues más sobre este tema.",
+        "{npc11_name}: ¡Correcto! Se usan materiales neutros y estables para evitar la transferencia de sustancias dañinas a los objetos y la aceleración del deterioro."
+      ]
+    },     
+    "scene44": {
+      "player": [
+        "",
+        "Sí. He revisado algunos libros sobre conservación."
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: ¿Y bien?, ¿Has consultado algo sobre embalaje y materiales de conservación?",
+        "{npc11_name}: Entonces te será fácil responder ¿Cuál es el objetivo de almacenar determinados objetos en cajas de cartón libre de ácidos?",
+        "{npc11_name}: Ummm. Aplícate para encontrar la respuesta correcta. Ya te llamaré.",
+        "{npc11_name}: ¡Correcto! Se usan materiales neutros y estables para evitar la transferencia de sustancias dañinas a los objetos y la aceleración del deterioro."
+      ] 
+    },
+    "scene45": {
+      "player": [
+        "",
+        "Seguro. Ahora es la definitiva.\n ¡Pregunta!"
+      ],
+      "npc11": [
+        "",
+        "{npc11_name}: ¡Otra vez por aquí!,\n ¿Tendrás ya la respuesta correcta?",
+        "{npc11_name}: ¡Allá voy! ¿Cuál es el objetivo de almacenar determinados objetos en cajas de cartón libre de ácidos?",
+        "{npc11_name}: En fin, debo quedarme con la pieza para su análisis.\n Pero este patinazo te impide aumentar tus conocimientos sobre restauración.",
+        "{npc11_name}: ¡Correcto! Se usan materiales neutros y estables para evitar la transferencia de sustancias dañinas a los objetos y la aceleración del deterioro."
+      ] 
+    },         
+    "scene100": {
+      "player": [
+        ""
+      ],
+      "npc13": [
+        "RIIIIIIIIING, RIIIIIIIIING, RIIIIIIIIING",
+        "{npc13_name}: Buenos días. Soy de Seguridad del museo. \n Ha venido una persona a realizar una consulta.",
+        "{npc13_name}: ¿Podrías acercarte cuando puedas a la entrada de servicio?. Gracias."
+      ]
+    },
+    "scene101": {
+      "player": [
+        ""
+      ],
+      "npc11": [
+        "RIIIIIIIIING, RIIIIIIIIING, RIIIIIIIIING",
+        "{npc11_name}: Buenos días. \n ¿Te has puesto al día con la Conservación preventiva?",
+        "{npc11_name}: Si es así, puedes acercarte al Laboratorio de Restauración."
+      ]
+    },
+     "scene102": {
+      "player": [
+        "Pues sí. El conocimiento no ocupa lugar."
+      ],
+      "npc12": [
+        "Buenos días. ¿Vienes buscando información específica sobre Arqueología?",
+        "El tamaño de estas librerías parece contradecir esa afirmación. Aunque seguro que en ellas encontrarás la respuesta que buscas. ",
+        ""
+      ]
+    },
+     "scene103": {
+      "player": [
+        "Sí. Me han surgido algunas dudas."
+      ],
+      "npc12": [
+        "Hola. ¿De vuelta con tus indagaciones?",
+        "Seguro que en estos libros encontrarás la respuesta a esas dudas. ",
+        ""
+      ]
+    },
+    "scene104": {
+      "player": [
+        "Sí. Necesito ampliar mis conocimientos."
+      ],
+      "npc12": [
+        "¿Qué tal estás? \n ¿Necesitas consultar algo de nuevo?.",
+        "Perfecto. Te noto muy motivado. Sumérgete en la lectura de los libros",
+        ""
+      ]
+    },           
+    "scene105": {
+      "player": [
+        "No. Qué va. Todo está tranquilo."
+      ],
+      "npc13": [
+        "Buenos días \n ¿Hay algún problema en el Museo?.",
+        "Perfecto. Tampoco hay grandes novedades por aquí.",
+        ""
+      ]
+    },
+    "scene106": {
+      "player": [
+        "Bien, bien. El día está siendo tranquilo."
+      ],
+      "npc13": [
+        "Buenos días \n ¿Qué tal va todo?.",
+        "Me alegro. Que siga así.",
+        ""
+      ]
+    } 
+ }
+}
+

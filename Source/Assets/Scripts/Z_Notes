@@ -1,0 +1,101 @@
+"""
+# =============================================================================
+# NOTES:
+# =============================================================================
+    
+# =============================================================================
+# PRODUCTION CHECKLIST:
+# =============================================================================
+    1. SCRIPTS (There are two scripts/utilities that allow you to change these
+    values ​​between test and production modes):
+    # game_data.py line 170:
+    - Enable background sound: self.sound_background = True # True (Production); False (Disabled/Testing)
+    # npc_logic.py, line 65:
+    - Restore startup time for NPCs:
+        NPC_INIT_TIME = 120.0  # 120 (Production); 5.0 (Testing); 5000 (Disabled)
+    # storage_spawn.py line 63:
+    - Restore spawn time for collectible objects:
+        SPAWN_INTERVAL = 10.0   # 10 (Production); 8 (Testing)
+    
+    2. CHECK GAME FILE:
+    - Deactivate 'Debug Properties' and 'Framerate and Profile' in 'Render Properties' (included in utils/scripts)    
+    - Define restoration objects: 5 # 10 in Testing
+    - The 'End of game' option is implemented in the object 'Empty.SuspendManager' using Ctrl+F9
+    
+    3. EXTERNAL FILES:
+    - English translation of text files: //Assets/Texts
+
+# =============================================================================
+# CENTRALIZED SOUND SYSTEM:
+# =============================================================================
+    # For exact synchronization with animation:
+    from sound_fx import play_sound_immediate
+    play_sound_immediate("footstep.ogg", volume=0.4)
+
+    # For general effects:
+    bge.logic.sendMessage("sound_fx.play", "sound_fx.play|whoosh.ogg")       
+        
+# =============================================================================
+# BACKGROUND MUSIC SYSTEM:
+# =============================================================================
+## METHOD 1
+import bge
+from bge import logic
+
+# Change music (Message)
+logic.sendMessage("sound_background.set_context", "sound_background.set_context|quiz")
+
+# Fade out
+logic.sendMessage("sound_background.fade_out", "sound_background.fade_out")
+
+# Stop music
+logic.sendMessage("sound_background.stop", "sound_background.stop")
+
+# Change music (Direct function)
+from sound_context import force_context_change
+force_context_change("fight")
+
+## METHOD 2
+bge.logic.sendMessage("sound_background.set_context", "sound_background.set_context|death")
+    
+# =============================================================================
+# INFO MESSAGE EMISSION SYSTEM:
+# =============================================================================    
+    message = f"info.show|info_text|{line_num}|field=info_text"
+    owner.sendMessage("add_info_text", message, "Game.Controller")
+
+# =============================================================================
+# IMPORTANT NOTES:
+# =============================================================================
+    
+    1. OBJECT EMISSION
+    For 'Add Object' emission, these layers must remain hidden
+    in the game build:
+        CollectionMouse (Linked/Library Override)
+        CollectinoCockroach (Linked/Library Override)
+        CollectionMouse (Instanced)
+        CollectionCockroach (Instanced)
+        CollectionPest (Main emission objects)
+        CollectionPest (Instanced)
+        Spray.Particle
+        Spray.Particle.001 (Instanced)
+        
+    
+    2. SUSPENDING AND RESTORING DYNAMICS
+    The best method to suspend and restore dynamics is to apply setParent()
+    to the object that suspends dynamics to an object without dynamics,
+    and then call removeParent() to restore them.
+    
+    3. PROPERTY MANAGEMENT.
+    ARCHITECTURE CHANGE IN PROPERTY MANAGEMENT:
+    Previously done through specific properties on the 'Game.Controller'
+    object. To simplify synchronization, it is now done through the
+    'init_game.py', 'game_access.py' and 'game_data.py' scripts.
+    
+    4. PEST MANAGER.
+    General controller object: Empty.Pest.Manager | Has the 'pest_manager.py' script
+    Emitter objects: Empty.Spawn.Pest.[num] | Have a 'Near' sensor that detects
+    the player and sends a message to the general controller object. Sensor
+    distances can be configured manually.
+
+"""

@@ -39,7 +39,7 @@ You can create your own executable from the source code. To do so:
 # 📦 Downloads
 
 - [[Windows](https://mega.nz/file/sy8UlarK#ZPZlE4dc7CEKrPhj6XtWJBs3a7DSpyhXSJvpgJ6J8C0)](releases)
-- [[Linux](https://mega.nz/file/EiVyzDiR#cgEeOyIBy52erP4LBnykPff3QgL3XRdihBy44bGv6ys)](releases)
+- [[Linux](https://mega.nz/file/tjtinaaA#L8zGqQLEft6LJZaDOTAQwCRdiLp0G_Vi8kW1PlOR5Y4)](releases)
 - [Source Code](https://github.com/nosinmipixel/museum-game)
 
 # 📜 License

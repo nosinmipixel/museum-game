@@ -3,6 +3,8 @@
 # 🎮 General Synopsis
 
 Simulation game that combines quiz questionnaires and is set in the Prehistory Museum of Valencia.
+> 🆕 **A 2D remake is also available** — *Top Down Museum Game*, built with Defold/Lua and playable in the browser: [nosinmipixel/museum-game-2d](https://github.com/nosinmipixel/museum-game-2d) · [Play online](https://nosinmipixel.github.io/museum-game-2d/)
+
 
 ![Game Screenshot](https://lh3.googleusercontent.com/pw/AP1GczOKMVR9QVdBP-oWwythcRhdXk_5Wzd3YUS0zcL3BkLVDwsd3Chw-X5tK_UHX9_hC6O2KLJpVGwgg8iQMEYDVUnpcO4v6M0Gzy0F7dlg0TFTYNZMjX7LyvfMa2uc3Ybtt8Ltty7ZaUIwMl5qFKpX7SKT=w1280-h720-s-no)
 

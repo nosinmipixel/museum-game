@@ -2,6 +2,8 @@
 
 # 🎮 Sinopsis general
 Juego de simulación que combina cuestionarios quiz y está ambientado en el Museo de Prehistoria de Valencia.
+> 🆕 **También disponible una remake 2D** — *Top Down Museum Game*, hecha con Defold/Lua y jugable en el navegador: [nosinmipixel/museum-game-2d](https://github.com/nosinmipixel/museum-game-2d) · [Jugar online](https://nosinmipixel.github.io/museum-game-2d/)
+
 ![](https://lh3.googleusercontent.com/pw/AP1GczOKMVR9QVdBP-oWwythcRhdXk_5Wzd3YUS0zcL3BkLVDwsd3Chw-X5tK_UHX9_hC6O2KLJpVGwgg8iQMEYDVUnpcO4v6M0Gzy0F7dlg0TFTYNZMjX7LyvfMa2uc3Ybtt8Ltty7ZaUIwMl5qFKpX7SKT=w1280-h720-s-no)
 El jugador actúa como el conservador “novato” de un museo que puede aumentar su experiencia si realiza toda una serie de tareas: 
 1. Organizar la colección del museo.
